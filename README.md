@@ -1,1 +1,1 @@
-This is just a try.
+This is the the personal homepage.
