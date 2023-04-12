@@ -3,12 +3,15 @@
 
 @import "jekyll-theme-minimal";
 
-fat-bottom{
+<style>
+.fat-bottom{
     margin-bottom: 10pt;
 }
-fat-top{
+.fat-top{
       margin-top: 10pt;  
 }
+</style>
+
 h1{
     margin-bottom: 3pt;
     martin-top: 3pt
