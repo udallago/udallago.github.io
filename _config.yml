@@ -2,6 +2,6 @@ title: Ugo Dal Lago
 logo: /assets/img/picture.jpg
 description: Academic Webpage
 show_downloads: false
-is_user_page: false
+github.is_user_page: false
 google_analytics:
 theme: jekyll-theme-minimal
