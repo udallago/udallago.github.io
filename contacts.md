@@ -3,12 +3,13 @@ layout: default
 ---
 
 ## Mail Address
-
+<p class="fatbottom">
 Dipartimento di Informatica - Scienza e Ingegneria<br>
-Alma Mater Studiorum, Università di Bologna<br
+Alma Mater Studiorum, Università di Bologna<br>
 Mura Anteo Zamboni, 7<br>
 40126 Bologna<br>
 ITALY
+</p>
 
 ## Email Addresses
 
