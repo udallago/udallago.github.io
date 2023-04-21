@@ -4,11 +4,13 @@ layout: default
 
 ## Mail Address
 
-Dipartimento di Informatica - Scienza e Ingegneria
-Alma Mater Studiorum, Università di Bologna
-Mura Anteo Zamboni, 7
-40126 Bologna
+Dipartimento di Informatica - Scienza e Ingegneria<br>
+Alma Mater Studiorum, Università di Bologna<br
+Mura Anteo Zamboni, 7<br>
+40126 Bologna<br>
 ITALY
 
 ## Email Addresses
 
+<img src="/assets/img/UNIBO_email.png"/>
+<img src="/assets/img/INRIA_email.png"/>
