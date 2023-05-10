@@ -13,5 +13,5 @@ ITALY
 
 ## Email Addresses
 
-<img src="/assets/img/UNIBO_email.png" height=20pt/><br>
+<img src="/assets/img/UNIBO_email.png" height=18pt/><br>
 <img src="/assets/img/INRIA_email.png" height=15pt/><br>
