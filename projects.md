@@ -18,3 +18,6 @@ layout: default
 <li> Member of the ANR Project <a href="https://anr.fr/Project-ANR-16-CE25-0011">"Reliable and Privacy-Aware Software Systems via Bisimulation Metrics"</a> (REPAS, ANR-16-CE25-0011).</li>
 <li> Member of the ANR Project <a href="https://anr.fr/Projet-ANR-14-CE25-0005">"Élargir les idées logiques pour l'analyse de complexité"</a> (ELICA, ANR-14-CE25-0005).</li>
 <li> Member of the PRIN Project <a href="https://www.di.univr.it/?ent=iniziativa&id=8573">"Analizzare le Analisi di Programma"</a> (ASPRA, PRIN2017).</li>
+<li> Member of the ANR Project  <a href="http://perso.ens-lyon.fr/daniel.hirschkoff/pace">"Processus non-standard: Analyse, Coinduction, et
+Expressivit�"</a> (PACE, ANR-12-IS02-001).</li>
+ 
