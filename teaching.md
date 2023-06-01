@@ -11,6 +11,6 @@ layout: default
 <li> <a href="http://www.cs.unibo.it/~dallago/LCTT2018/">Lambda Calcolo e Teoria dei Tipi</a>, <b>Scuola Estiva di Logica</b>, Gargnano, Italy, <em>August 2018</em>.</li>
 <li> <a href="http://www.cs.unibo.it/~dallago/PROQUA2017/">A Brief Introduction to Probabilistic and Quantum Programming</a>, <b>Universidade do Minho</b>, Portugal, <em>May 2017</em>.</li>
 <li> <a href="http://www.cs.unibo.it/~dallago/ICCHC/">Implicit Complexity and the Curry-Howard Correspondence</a>, <b>University of Lisbon</b>, Portugal, <em>January 2016</em>.</li>
-<li> <a href="http://www.cs.unibo.it/~dallago/FICQRA/">From Implicit Complexity to Quantitative Resource Analysis</a>, <b>University of Warsaw</b>, Polan, <em>June 2015</em>.</li>
+<li> <a href="http://www.cs.unibo.it/~dallago/FICQRA/">From Implicit Complexity to Quantitative Resource Analysis</a>, <b>University of Warsaw</b>, Poland, <em>June 2015</em>.</li>
 </ul>
 </p>
