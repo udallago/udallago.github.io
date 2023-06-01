@@ -2,15 +2,18 @@
 layout: default
 ---
 
-<p class="indentfirst">Most of his teaching duties are within <a href="https://corsi.unibo.it/1cycle/ComputerScience">undergraduate</a> and <a href="https://corsi.unibo.it/2cycle/ComputerScience">graduate</a> programs in Computer Science and within the <a href="https://corsi.unibo.it/2cycle/artificial-intelligence">Master Program in Artificial Intelligence</a>, all at the University of Bologna. More info in his <a href="https://www.unibo.it/sitoweb/ugo.dallago/en">webpage at UNIBO</a>.</p>
+<p class="indentfirst">He is member of the editorial board of the journals <a href="https://lmcs.episciences.org">Logical Methods in Computer Science</a>, <a href="https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science">Mathematical Structures in Computer Science</a> and <a href="https://www.springer.com/journal/236">Acta Informatica</a>. He has served as a guest editor for the journal <a href="https://www.sciencedirect.com/journal/theoretical-computer-science">Theoretical Computer Science</a></p>
 
-<p class="indentfirst">The following is a selection of the PhD courses he has given in the recent past:
+<p class="indentfirst">He has been the program chair or co-chair of the following scientific events:
 <ul>
 <li> <a href="http://www.cs.unibo.it/~dallago/TQC2020/">Introduction to the Theory of Quantum Computing</a>, <b>University of Bologna</b>, Italy, <em>July 2020</em>.</li>
 <li> <a href="http://www.cs.unibo.it/~dallago/CSCICC/">Implicit Complexity</a>, <b>Caleidoscope Summer School</b>, Paris, France, <em>June 2019</em>.</li>
-<li> <a href="http://www.cs.unibo.it/~dallago/LCTT2018/">Lambda Calcolo e Teoria dei Tipi</a>, <b>Scuola Estiva di Logica</b>, Gargnano, Italy, <em>August 2018</em>.</li>
-<li> <a href="http://www.cs.unibo.it/~dallago/PROQUA2017/">A Brief Introduction to Probabilistic and Quantum Programming</a>, <b>Universidade do Minho</b>, Portugal, <em>May 2017</em>.</li>
-<li> <a href="http://www.cs.unibo.it/~dallago/ICCHC/">Implicit Complexity and the Curry-Howard Correspondence</a>, <b>University of Lisbon</b>, Portugal, <em>January 2016</em>.</li>
-<li> <a href="http://www.cs.unibo.it/~dallago/FICQRA/">From Implicit Complexity to Quantitative Resource Analysis</a>, <b>University of Warsaw</b>, Poland, <em>June 2015</em>.</li>
+</ul>
+</p>
+
+<p class="indentfirst">He regularly serves in the program committee of international conferences about programming language theory and logic in computer science. The following is a selection of some recent ones:
+<ul>
+<li> <a href="http://www.cs.unibo.it/~dallago/TQC2020/">Introduction to the Theory of Quantum Computing</a>, <b>University of Bologna</b>, Italy, <em>July 2020</em>.</li>
+<li> <a href="http://www.cs.unibo.it/~dallago/CSCICC/">Implicit Complexity</a>, <b>Caleidoscope Summer School</b>, Paris, France, <em>June 2019</em>.</li>
 </ul>
 </p>
