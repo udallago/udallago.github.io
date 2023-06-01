@@ -6,7 +6,8 @@ layout: default
 
 <p class="indentfirst">The following is a selection of the PhD courses he has given in the recent past:
 <ul>
-<li> <a href="http://www.cs.unibo.it/~dallago/CSCICC/">"Implicit Complexity"</a>, Caleidoscope Summer School, <em>June 2019</em>.</li>
-<li> <a href="http://www.cs.unibo.it/~dallago/LCTT2018/">"Lambda Calcolo e Teoria dei Tipi"</a>, Scuola Estiva di Logica, Gargnano, <em>August 2018</em>.</li>
+<li> <a href="http://www.cs.unibo.it/~dallago/CSCICC/">"Implicit Complexity"</a>, Caleidoscope Summer School, Paris, France, <em>June 2019</em>.</li>
+<li> <a href="http://www.cs.unibo.it/~dallago/LCTT2018/">"Lambda Calcolo e Teoria dei Tipi"</a>, Scuola Estiva di Logica, Gargnano, Italy, <em>August 2018</em>.</li>
+<li> <a href="http://www.cs.unibo.it/~dallago/LCTT2018/">"A Brief Introduction to Probabilistic and Quantum Programming"</a>, Universidade do Minho, Portugal, <em>May 2017</em>.</li>
 </ul>
 </p>
