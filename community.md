@@ -4,11 +4,12 @@ layout: default
 
 ## Editorship
 <p class="indentfirst">He is member of the editorial board of the journals <a href="https://lmcs.episciences.org">Logical Methods in Computer Science</a>, <a href="https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science">Mathematical Structures in Computer Science</a> and <a href="https://www.springer.com/journal/236">Acta Informatica</a>. He has served as a guest editor for the journal <a href="https://www.sciencedirect.com/journal/theoretical-computer-science">Theoretical Computer Science</a></p>
+<br>
 
 ## Steering Committee Membership
 <ul>
-<li> <b>FoSSaCS Steering Committee Member</b> since <em>2017</em>.</li>
-<li> <b>LCC Steering Committee Member</b> from <em>2017</em> to <em>2022</em>.</li>
+<li> <b>FoSSaCS</b> Steering Committee Member, since <em>2017</em>.</li>
+<li> <b>LCC</b> Steering Committee Member, from <em>2017</em> to <em>2022</em>.</li>
 </ul>
 
 ## Program Chairing
