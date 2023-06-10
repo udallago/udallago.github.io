@@ -8,8 +8,10 @@ layout: default
 
 ## Steering Committee Membership
 <ul>
-<li> <b>FoSSaCS</b> Steering Committee Member, since <em>2017</em>.</li>
-<li> <b>LCC</b> Steering Committee Member, from <em>2017</em> to <em>2022</em>.</li>
+<li> <b>FoSSaCS</b>, "Foundations of Software Science and Computational Structures", since <em>2018</em>.</li>
+<li> <b>TLCA</b> "Typed Lambda Calculi and Applications", from <em>2014</em> to <em>2016</em>.</li>
+<li> <b>DICE</b> "Developments in Implicit Complexity", since <em>2012</em>.</li>
+<li> <b>LCC</b> "Logic and Computational Complexity", from <em>2016</em> to <em>2022</em>.</li>
 </ul>
 
 ## Program Chairing
