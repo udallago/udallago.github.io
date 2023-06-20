@@ -24,7 +24,8 @@ layout: default
 ## Program Committee Membership
 <p class="indentfirst">He regularly serves in the program committee of international conferences about programming language theory and logic in computer science. The following is a selection of some recent ones:
 <ul>
-<li> <a href="http://www.cs.unibo.it/~dallago/TQC2020/">Introduction to the Theory of Quantum Computing</a>, <b>University of Bologna</b>, Italy, <em>July 2020</em>.</li>
-<li> <a href="http://www.cs.unibo.it/~dallago/CSCICC/">Implicit Complexity</a>, <b>Caleidoscope Summer School</b>, Paris, France, <em>June 2019</em>.</li>
+<li> <a href="https://etaps.org/2024/conferences/esop/">ESOP 2024</a>, 33rd European Symposium on Programming, <b>University of Luxemburg</b>, Luxemburg, <em>April 2024</em>.</li>
+<li> <a href="https://www.fsttcs.org.in/2023/">FSTTCS 2023</a>, 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science, <b>IIIT Hyderabad</b>, India, <em>December 2023</em>.</li>
+<li> <a href="https://lics.siglog.org/lics23/">LICS 2023</a>, 38th Annual ACM/IEEE Symposium on Logic in Computer Science, <b>Boston</b>, USA, <em>June 2023</
 </ul>
 </p>
