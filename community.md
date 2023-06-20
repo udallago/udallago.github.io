@@ -24,8 +24,8 @@ layout: default
 ## Program Committee Membership
 <p class="indentfirst">He regularly serves in the program committee of international conferences about programming language theory and logic in computer science. The following is a selection of some recent ones:
 <ul>
-<li> <b>ESOP 2024</b><a href="https://etaps.org/2024/conferences/esop/">33rd European Symposium on Programming</a>, University of Luxemburg, Luxemburg, <em>April 2024</em>.</li>
+<li> <b>ESOP 2024</b>, <a href="https://etaps.org/2024/conferences/esop/">33rd European Symposium on Programming</a>, University of Luxemburg, Luxemburg, <em>April 2024</em>.</li>
 <li> <b>FSTTCS 2023</b>, <a href="https://www.fsttcs.org.in/2023/">43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science</a>, IIIT Hyderabad, India, <em>December 2023</em>.</li>
-<li> <b>LICS 2023</b>, <a href="https://lics.siglog.org/lics23/">38th Annual ACM/IEEE Symposium on Logic in Computer Science</a>, <b>Boston</b>, USA, <em>June 2023.</li>
+<li> <b>LICS 2023</b>, <a href="https://lics.siglog.org/lics23/">38th Annual ACM/IEEE Symposium on Logic in Computer Science</a>, Boston, USA, <em>June 2023.</li>
 </ul>
 </p>
