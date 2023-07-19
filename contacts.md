@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Contacts
 ---
 
 ## Mail Address
