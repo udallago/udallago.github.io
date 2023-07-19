@@ -1,9 +1,9 @@
 ---
 layout: default
-title: asdf
+title: Projects
 ---
 
-### Ongoing
+## Ongoing
 
 <ul>
 <li> PI of the ERC Consolidator Grant <a href="https://diapason.unibo.it">"Differential Program Semantics"</a> (DIAPASoN, GA 818616), which started in March 2019 and will end in February 2024.</li>
@@ -12,7 +12,7 @@ title: asdf
 <li> Member of the ANR Project <a href="https://anr.fr/Project-ANR-19-CE48-0014">"Probabilistic Program Semantics"</a> (PPS, ANR-19-CE48-0014).</li>
 </ul>
 
-### Concluded
+## Concluded
 
 <ul>
 <li> PI of the EA <a href="http://crecogi.cs.unibo.it">"Concurrent, Resourceful and Effectful COmputation, by Geometry of Interaction"</a> (CRECOGI), which started in January 2015 and ended in December 2020.</li>
