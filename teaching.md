@@ -2,8 +2,10 @@
 layout: default
 ---
 
-<p class="indentfirst">Most of his teaching duties are within <a href="https://corsi.unibo.it/1cycle/ComputerScience">undergraduate</a> and <a href="https://corsi.unibo.it/2cycle/ComputerScience">graduate</a> programs in Computer Science and within the <a href="https://corsi.unibo.it/2cycle/artificial-intelligence">Master Program in Artificial Intelligence</a>, all at the University of Bologna. More info in his <a href="https://www.unibo.it/sitoweb/ugo.dallago/en">webpage at UNIBO</a>.</p>
+<h2 class="fat-bottom">@UNIBO</h2>
+<p class="indentfirst" class=fat-bottom">Most of his teaching duties are within <a href="https://corsi.unibo.it/1cycle/ComputerScience">undergraduate</a> and <a href="https://corsi.unibo.it/2cycle/ComputerScience">graduate</a> programs in Computer Science and within the <a href="https://corsi.unibo.it/2cycle/artificial-intelligence">Master Program in Artificial Intelligence</a>, all at the University of Bologna. More info in his <a href="https://www.unibo.it/sitoweb/ugo.dallago/en">webpage at UNIBO</a>.</p>
 
+<h2 class="fat-bottom">Graduate Courses</h2>
 <p class="indentfirst">The following is a selection of the PhD courses he has given in the recent past:
 <ul>
 <li> <a href="https://www.cs.unibo.it/~dallago/ECI2023">On Randomization in (Higher-Order) Programming</a>, <b>ECI, University of Buenos Aires</b>, Argentina, <em>July 2023</em>.</li>
