@@ -4,6 +4,7 @@ title: Contacts
 ---
 
 ## Mail Address
+<br>
 <p class="fatbottom">
 Dipartimento di Informatica - Scienza e Ingegneria<br>
 Alma Mater Studiorum, Università di Bologna<br>
@@ -14,6 +15,6 @@ ITALY
 <br>
 
 ## Email Addresses
-
+<br>
 <img src="/assets/img/UNIBO_email.png" height=17pt/><br>
 <img src="/assets/img/INRIA_email.png" height=15pt/><br>
