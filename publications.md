@@ -4,7 +4,7 @@ title: Publications
 ---
 
 <div id="pub_placeholder">
-  Loading Data from DBLP
+  Loading Data from DBLP, please wait...
 </div>
 <div id="pub_list">
   <script src="https://bibbase.org/show?bib=https://dblp.org/pid/44/3105.bib&amp;jsonp=1&amp;fullnames=1&amp;hidemenu=true&amp;commas=true"></script>
