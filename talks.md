@@ -3,7 +3,8 @@ layout: default
 title: Projects
 ---
 
-<h2 class="fat-bottom">Recent and Forthcoming Invited Talks</h2>
+<h2 class="fat-bottom">Recent Invited Talks</h2>
+<p>The following is a selection of the invited talks he has given in the recent past:
 <ul>
 <li> <a href="https://cpsc.yale.edu/event/cs-colloquium-ugo-dal-lago-university-bologna-italy">From Equivalences to Metrics, Effectfully</a>, <em>CS Colloquium</em>, Yale University, New Haven CT, February 2024.</li>
 <li> <a href="https://popl24.sigplan.org/home/galop-2024">On Interaction, Efficiency, and Reversibility</a>, <em>GALOP</em>, London, January 2024.</li>
