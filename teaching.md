@@ -8,7 +8,7 @@ layout: default
 <h2 class="fat-bottom">PhD Courses</h2>
 <p>The following is a selection of the PhD courses he has given in the recent past:
 <ul>
-<li> <a href="http://cl-informatik.uibk.ac.at/isr24/">About Randomized Programming and Rewriting</a>, <b>14th International School on Rewriting</b>, Obergurgl, Austria <em>August-September 2024</em>.</li>
+<li> <a href="http://cl-informatik.uibk.ac.at/isr24/">About Randomized Programming and Rewriting</a>, <b>14th International School on Rewriting</b>, Obergurgl, Austria, <em>August-September 2024</em>.</li>
 <li> <a href="https://www.cs.unibo.it/~dallago/ECI2023">On Randomization in (Higher-Order) Programming</a>, <b>ECI, University of Buenos Aires</b>, Argentina, <em>July 2023</em>.</li>
 <li> <a href="https://www.cs.uoregon.edu/research/summerschool/summer21/topics.php">From Program Equivalences to Program Metrics</a>, <b>OPLSS, University of Oregon</b>, USA, <em>July 2021</em>.</li>
 <li> <a href="http://www.cs.unibo.it/~dallago/TQC2020/">Introduction to the Theory of Quantum Computing</a>, <b>University of Bologna</b>, Italy, <em>July 2020</em>.</li>
