@@ -18,7 +18,7 @@ title: Community
 
 <h2 class="fat-bottom">Program Chairing</h2>
 <ul>
-<li> <b>LICS 2024</b>, <a href="https://lics.siglog.org/lics24/">39th Italian Conference on Annual ACM/IEEE Symposium on Logic in Computer Science</a>, Tallinn, Estonia, <em>July 2024</em>.</li>
+<li> <b>LICS 2024</b>, <a href="https://lics.siglog.org/lics24/">39th Annual ACM/IEEE Symposium on Logic in Computer Science</a>, Tallinn, Estonia, <em>July 2024</em>.</li>
 <li> <b>ICTCS 2022</b>, <a href="https://easyconferences.eu/ictcs2022/">23rd Italian Conference on Theoretical Computer Science</a>, Rome, Italy, <em>September 2022</em>.</li>
 <li> <b>TLLA&Linearity 2020</b>, <a href="https://easyconferences.eu/ictcs2022/">Second Joint International Workshop on Linearity & Trends in Linear Logic and Applications</a>, Online, <em>June 2020</em>.</li>
 <li> <b>FoSSaCS 2018</b> <a href="https://www.etaps.org/2018/fossacs">21st International Conference on Foundations of Software Science and Computation Structures</a>, Tessaloniki, Greece, <em>April 2018</em>.</li>
