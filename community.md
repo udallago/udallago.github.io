@@ -9,6 +9,7 @@ title: Community
 
 <h2 class="fat-bottom">Steering Committee Membership</h2>
 <ul>
+<li> <b>FSCD</b>, "Formal Structures in Computation and Deduction", from <em>2024</em>.</li>
 <li> <b>LICS</b>, "Logic in Computer Science", from <em>2023</em>.</li>
 <li> <b>FoSSaCS</b>, "Foundations of Software Science and Computational Structures", from <em>2018</em> to <em>2023</em>.</li>
 <li> <b>TLCA</b> "Typed Lambda Calculi and Applications", from <em>2014</em> to <em>2016</em>.</li>
