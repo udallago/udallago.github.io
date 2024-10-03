@@ -5,7 +5,7 @@ title: Supervision
 
 <h2 class="fat-bottom">Postdocs</h2>
 <ul>
-<li> <a href="https://www.irif.fr/users/arrial/index">Victor Arriall</a>, funded by the PNRR CN-HPC project.</li>
+<li> <a href="https://www.irif.fr/users/arrial/index">Victor Arrial</a>, funded by the PNRR CN-HPC project.</li>
 <li> <a href="https://zgalal.github.io">Zeinab Galal</a>, funded by the FARE "CAFFEINE" project and the PNRR CN-HPC project.</li>
 <li> <a href="https://www.federicolimpieri.it">Federico Olimpieri</a>, Marie Sklodowska Curie Fellow.</li>
 </ul>
