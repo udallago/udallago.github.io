@@ -24,9 +24,9 @@ title: Supervision
 </ul>
 <h2 class="fat-bottom">Selected Former Supervisees</h2>
 <ul>
-<li> <a href="https://www.helsinki.fi/en/about-us/people/people-finder/melissa-antonelli-9471108">Melissa Antonelli</a>, PhD student (2020-2023), now a postdoc at the <em>University of Helsinki</em></li>
-<li> <a href="https://sites.google.com/view/francescogavazzo/home">Francesco Gavazzo</a>, PhD student (2016-2019), postdoc (2020-2022), now tenure-track at the <em>University of Padova</em></li>
-<li> <a href="https://perso.ens-lyon.fr/paolo.pistone/">Paolo Pistone</a>, postdoc (2020-2023), now tenure-track at <em>ENS-Lyon</em</li>
-<li> <a href="https://vanoni.me">Gabriele Vanoni</a>, PhD student (2019-2022), now postdoc at <em>IRIF</em></li>
+<li> <a href="https://www.helsinki.fi/en/about-us/people/people-finder/melissa-antonelli-9471108">Melissa Antonelli</a>, PhD student (2020-2023), now a postdoc at the <em>University of Helsinki</em>.</li>
+<li> <a href="https://sites.google.com/view/francescogavazzo/home">Francesco Gavazzo</a>, PhD student (2016-2019), postdoc (2020-2022), now tenure-track at the <em>University of Padova</em>.</li>
+<li> <a href="https://perso.ens-lyon.fr/paolo.pistone/">Paolo Pistone</a>, postdoc (2020-2023), now tenure-track at <em>ENS-Lyon</em>.</li>
+<li> <a href="https://vanoni.me">Gabriele Vanoni</a>, PhD student (2019-2022), now postdoc at <em>IRIF</em>.</li>
 </ul>
 
