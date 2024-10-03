@@ -27,5 +27,6 @@ title: Supervision
 <li> <a href="https://www.helsinki.fi/en/about-us/people/people-finder/melissa-antonelli-9471108">Melissa Antonelli</a>, PhD student (2020-2023), now a postdoc at the University of Helsinki.</li>
 <li> <a href="https://sites.google.com/view/francescogavazzo/home">Francesco Gavazzo</a>, PhD student (2016-2019), postdoc (2020-2022), now tenure-track at the University of Padova</li>
 <li> <a href="https://perso.ens-lyon.fr/paolo.pistone/">Paolo Pistone</a>, postdoc (2020-2023), now tenure-track at ENS-Lyon</li>
+<li> <a href="https://vanoni.me">Gabriele Vanoni</a>, PhD student (2019-2022), now postdoc at IRIF</li>
 </ul>
 
