@@ -22,4 +22,9 @@ title: Supervision
 <li> Alice Marinelli</li>
 <li> Leonardo Venturi</li>
 </ul>
+<h2 class="fat-bottom">Selected Former Supervisees</h2>
+<ul>
+<li> <a href="https://www.helsinki.fi/en/about-us/people/people-finder/melissa-antonelli-9471108">Melissa Antonelli</a>, PhD student, now a postdoc at the University of Helsinki.</li>
+<li> <a href="https://perso.ens-lyon.fr/paolo.pistone/">Paolo Pistone</a>, postdoc, now tenure-trac ENS-Lyon</li>
+</ul>
 
