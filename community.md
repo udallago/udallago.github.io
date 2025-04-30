@@ -28,7 +28,9 @@ title: Community
 <h2 class="fat-bottom">Program Committee Membership</h2>
 He regularly serves in the program committee of international conferences about programming language theory and logic in computer science. The following is a selection of some recent ones:
 <ul>
+<li> <b>FoSSaCS 2026</b>, <a href="https://etaps.org/2026/">29th International Conference on Foundations of Software Science and Computation Structures</a>, Torino, Italy, <em>April 2026</em>.</li>
 <li> <b>ICFP 2025</b>, <a href="https://icfp25.sigplan.org">30th ACM SIGPLAN International Conference on Functional Programming</a>, Singapore, <em>October 2025</em>.</li>
+<li> <b>ICTCS 2025</b>, <a href="https://www.eatcs.org/index.php/italian-chapter-conf">26th Italian Conference on Theoretical Computer Science</a>, Pescara, Italy, <em>September 2025</em>.</li>
 <li> <b>FoSSaCS 2025</b>, <a href="https://etaps.org/2025/">28th International Conference on Foundations of Software Science and Computation Structures</a>, Hamilton, Canada, <em>April 2025</em>.</li>
 <li> <b>CSL 2025</b>, <a href="https://www.eacsl.org/csl-conferences/">33rd EACSL Annual Conference on Computer Science Logic</a>, Amsterdam, Netherlands, <em>February 2025</em>.</li>
 <li> <b>MFCS 2024</b>, <a href="http://www.mfcs.sk">49th International Symposium on Mathematical Foundations of Computer Science</a>, Bratislava, Slovakia, <em>August 2024</em>.</li>
