@@ -8,5 +8,5 @@ A quote attributed to John Reynolds states: "Semanticists should be the obstetri
 From early in my career, my interests have extended beyond structural aspects to include the study of program efficiency. More broadly, it is well known that computation can be approached through quantitative techniques, which allow us to capture dimensions not purely logical in nature—for example, the probabilistic correctness of randomized programs or the analysis of errors in numerical algorithms.<br>
 
 How can these two perspectives be brought together? How can we interpret programs within mathematical frameworks that naturally and faithfully capture quantitative properties, without sacrificing simplicity or compositionality? These questions lie at the heart of my current research and, in various forms, have shaped much of my work in recent years.
-
-<blockquote><em>Ugo Dal Lago</em</blockquote>
+<br><be>
+<blockquote><em>Ugo Dal Lago</em></blockquote>
