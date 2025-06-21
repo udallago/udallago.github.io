@@ -7,8 +7,8 @@ title: Projects
 <ul>
 <li> PI of the MUR FARE Project "Compositional and Effectful Program Distances" (CAFFEINE), which started in November 2022 and will end in November 2025.</li>
 <li> Local Coordinator for the Spoke 10, <a href="https://www.supercomputing-icsc.it/en/spoke-10-quantum-computing-en/">"Quantum Computing"</a> of the <a href="https://www.supercomputing-icsc.it/en/icsc-home/">"ICSC National Research Centre for High Performance Computing, Big Data and Quantum Computing"</a>, which was created on September 1st, 2022.</li>
-<li> Local coordinator of PRIN 2022 Project "Resource Awareness in Programming" (RAP, P2022HXNSC), which started in January 2024 and will finish in December 2025.</li>
-<li> Member of the ANR Project <a href="https://anr.fr/Project-ANR-24-CE48-5521">"Higher-Order Probabilistic and Resource-Aware Reasoning"</a> (HOPR, ANR-24-CE48-5521), which started in January 2025 and will finish in December 2029.</li>
+<li> Local coordinator of the PRIN 2022 Project "Resource Awareness in Programming" (RAP, P2022HXNSC), which started in January 2024 and will end in December 2025.</li>
+<li> Member of the ANR Project <a href="https://anr.fr/Project-ANR-24-CE48-5521">"Higher-Order Probabilistic and Resource-Aware Reasoning"</a> (HOPR, ANR-24-CE48-5521), which started in January 2025 and will end in December 2029.</li>
 </ul>
 
 <h2 class="fat-bottom">Concluded</h2>
