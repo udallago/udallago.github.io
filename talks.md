@@ -7,7 +7,7 @@ title: Projects
 <p>The following is a selection of the invited talks he has given in the recent past:
 <ul>
 <li> Counting Qubits and Gates: Resource Analysis in Quantum Programming Languages, <em>CEA Seminar</em>, Paris, September 2025.</li>
-<li> <a href="https://ppdp25.github.io/site/cfp/">Counting Qubits and Gates: Resource Analysis in Quantum Programming Languages</a>, <em>PPDP 2025</em>, Rende, Calabria, September 2025.</li>
+<li> <a href="https://ppdp25.github.io/site/cfp/">Counting Qubits and Gates: Resource Analysis in Quantum Programming Languages</a>, <em>PPDP 2025</em>, Rende, Italy, September 2025.</li>
 <li> <a href="https://sites.google.com/view/cie2025-computabilityineurope/invited-speakers">Implicit Computational Complexity: Challenges and Perspectives</a>, <em>CiE 2025</em>, Lisbon, Portugal, July 2025.</li>
 <li> On Model-Checking Higher-Order Effectful Programs, DIBRIS, Università di Genova, Italy, April 2024.</li>
 <li> Enumerating Error Bounded Polytime Algorithms Through Arithmetical Theories, <em>Seminar on Logic and Rewriting</em>, Radboud University, Nijmegen, Netherlands, April 2024.</li>
