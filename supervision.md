@@ -5,18 +5,18 @@ title: Supervision
 
 <h2 class="fat-bottom">Postdocs</h2>
 <ul>
-<li> <a href="https://www.irif.fr/users/arrial/index">Victor Arrial</a>, funded by the PNRR CN-HPC project.</li>
+<li> <a href="https://www.i2m.univ-amu.fr/perso/remy.cerda/">Rémy Cerda</a>, starting in November 2025.</li>
+<li> <a href="https://www.irif.fr/users/lancelot/index">Adrienne Lancelot</a>, starting in December 2025.</li>
 </ul>
 <h2 class="fat-bottom">PhD Students and Research Assistants</h2>
 <ul>
 <li><a href="https://www-sop.inria.fr/members/Davide.Davoli/">Davide Davoli</a>, co-supervised with Martin Avanzini and Tamara Rezk.</li>
-<li><a href="https://www.unibo.it/sitoweb/giulia.giusti7">Giulia Giusti</a>, co-supervised with Michele Pagani.</li>
 </ul>
 <h2 class="fat-bottom">Master and Bachelor Students</h2>
 <ul>
-<li> Omar Ayache</li>
-<li> Bianca Finocchiaro</li>
+<li> Michele Dinelli</li>
 <li> Alice Marinelli</li>
+<li> Davide Sonno</li>
 </ul>
 <h2 class="fat-bottom">Former Supervisees</h2>
 <ul>
