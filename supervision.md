@@ -22,7 +22,7 @@ title: Supervision
 <ul>
 <li> <a href="https://www.lacl.fr/aurore.alcolei/">Aurore Alcolei</a>, postdoc (2019-2022), now an associate professor at <em>IUT Créteil-Vitryi</em>.</li>
 <li> <a href="https://www.helsinki.fi/en/about-us/people/people-finder/melissa-antonelli-9471108">Melissa Antonelli</a>, PhD student (2020-2023), now a postdoc at the <em>University of Helsinki</em>.</li>
-<li> <a href="https://www.irif.fr/users/arrial/index">Victor Arrial </a>, postdoc (2024-2025). /em>.</li>
+<li> <a href="https://www.irif.fr/users/arrial/index">Victor Arrial </a>, postdoc (2024-2025).</li>
 <li> <a href="https://davidebarbarossa12.github.io">Davide Barbarossa</a>, postdoc (2022-2024), now a postdoc at the <em>University of Bath</em>.</li>
 <li> <a href="https://www.unibo.it/sitoweb/andrea.colledan/">Andrea Colledan</a>, PhD student (2022-2025), now at <em>Blue Reply</em>.</li>
 <li> <a href="https://zgalal.github.io">Zeinab Galal</a>, postdoc (2023-2025), now an assistant professor at the <em>University of Kyoto</em></li>
