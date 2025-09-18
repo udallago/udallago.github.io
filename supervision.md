@@ -26,7 +26,7 @@ title: Supervision
 <li> <a href="https://www-sop.inria.fr/members/Martin.Avanzini/">Martin Avanzini </a>, postdoc (2014-2017), now a researcher at <em> INRIA Sophia-Antipolis</em>.</li>
 <li> <a href="https://davidebarbarossa12.github.io">Davide Barbarossa</a>, postdoc (2022-2024), now a postdoc at the <em>University of Bath</em>.</li>
 <li> <a href="https://lipn.univ-paris13.fr/~breuvart/">Flavien Breuvart</a>, postdoc (2015-2016), now associate professor at the <em>Université Paris Nord</em>.</li>
-<li> <a href="https://kostiachardonnet.github.io/">Kostia Chardonnet</a>, postdoc, now a postdoc at <em>INRIA Nancy</em>.</li>
+<li> <a href="https://kostiachardonnet.github.io/">Kostia Chardonnet</a>, postdoc (2023-2024), now a postdoc at <em>INRIA Nancy</em>.</li>
 <li> <a href="https://www.unibo.it/sitoweb/andrea.colledan/">Andrea Colledan</a>, PhD student (2022-2025), now at <em>Blue Reply</em>.</li>
 <li> <a href="https://zgalal.github.io">Zeinab Galal</a>, postdoc (2023-2025), now an assistant professor at the <em>University of Kyoto</em></li>
 <li> <a href="https://sites.google.com/view/francescogavazzo/home">Francesco Gavazzo</a>, PhD student (2016-2019), postdoc (2020-2022), now a tenure-track assistant professor at the <em>University of Padova</em>.</li>
