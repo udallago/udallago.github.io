@@ -10,7 +10,7 @@ title: Supervision
 </ul>
 <h2 class="fat-bottom">PhD Students and Research Assistants</h2>
 <ul>
-<li>Apolline Rodaryi</li>
+<li>Apolline Rodary</li>
 </ul>
 <h2 class="fat-bottom">Master and Bachelor Students</h2>
 <ul>
