@@ -28,6 +28,10 @@ title: Community
 <h2 class="fat-bottom">Program Committee Membership</h2>
 He regularly serves in the program committee of international conferences about programming language theory and logic in computer science. The following is a selection of some recent ones:
 <ul>
+<li> <b>ICTCS 2026</b>, <a href="https://ictcs2026.uniud.it">27th Italian Conference on Theoretical Computer Science</a>, Udine, Italy, <em>September 2026</em>.</li>
+<li> <b>MFCS 2026</b>, <a href="https://mfcs2026.irif.fr">51st International Symposium on Mathematical Foundations of Computer Science</a>, Paris, France, <em>August 2026</em>.</li>
+<li> <b>WoLLiC 2026</b>, <a href="https://wollic.org/wollic2026/">32nd Workshop on Logic, Language, Information and Computation</a>, Lima, Perù, <em>August 2026</em>.</li>
+<li> <b>FSCD 2026</b>, <a href="https://fscd2026.github.io">11th International Conference on Formal Structures for Computation and Deduction</a>, Lisbon, France, <em>July 2026</em>.</li>
 <li> <b>FoSSaCS 2026</b>, <a href="https://etaps.org/2026/">29th International Conference on Foundations of Software Science and Computation Structures</a>, Torino, Italy, <em>April 2026</em>.</li>
 <li> <b>PlanQC 2026</b>, <a href="https://popl26.sigplan.org/home/planqc-2026">6th International Workshop on Programming Languages for Quantum Computing</a>, Rennes, France, <em>January 2026</em>.</li>
 <li> <b>FSTTCS 2025</b>, <a href="https://www.fsttcs.org.in/2025/">45th IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science</a>, Goa, India <em>December 2025</em>.</li>
