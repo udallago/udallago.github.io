@@ -5,18 +5,22 @@ title: Supervision
 
 <h2 class="fat-bottom">Postdocs</h2>
 <ul>
-<li> <a href="https://www.i2m.univ-amu.fr/perso/remy.cerda/">Rémy Cerda</a>, starting in November 2025.</li>
-<li> <a href="https://www.irif.fr/users/lancelot/index">Adrienne Lancelot</a>, starting in December 2025.</li>
+<li> <a href="https://www.i2m.univ-amu.fr/perso/remy.cerda/">Rémy Cerda</a>, from November 2025.</li>
+<li> <a href="https://www.irif.fr/users/lancelot/index">Adrienne Lancelot</a>, from December 2025.</li>
 </ul>
 <h2 class="fat-bottom">PhD Students and Research Assistants</h2>
 <ul>
-<li><a href="https://www-sop.inria.fr/members/Davide.Davoli/">Davide Davoli</a>, co-supervised with Martin Avanzini and Tamara Rezk.</li>
+<li>Apolline Rodaryi</li>
 </ul>
 <h2 class="fat-bottom">Master and Bachelor Students</h2>
 <ul>
-<li> Michele Dinelli</li>
-<li> Alice Marinelli</li>
-<li> Davide Sonno</li>
+<li> Alex Bastianini</li>
+<li> Marius Capelli</li>
+<li> Davide Cavallo</li>
+<li> Andrea Corradetti</li>
+<li> Axel DeMasure</li>
+<li> Travis Leblanc</li>
+<li> Sofia Zanelli</li>
 </ul>
 <h2 class="fat-bottom">Former Supervisees (Last 10 Years)</h2>
 <ul>
@@ -28,6 +32,7 @@ title: Supervision
 <li> <a href="https://lipn.univ-paris13.fr/~breuvart/">Flavien Breuvart</a>, postdoc (2015-2016), now associate professor at the <em>Université Paris Nord</em>.</li>
 <li> <a href="https://kostiachardonnet.github.io/">Kostia Chardonnet</a>, postdoc (2023-2024), now a postdoc at <em>INRIA Nancy</em>.</li>
 <li> <a href="https://www.unibo.it/sitoweb/andrea.colledan/">Andrea Colledan</a>, PhD student (2022-2025), now at <em>Blue Reply</em>.</li>
+<li> <a href="https://davidedavoli.github.io">Davide Davoli</a>, PhD student (2022-2025), now a postdoc at <em>MPI-SP, Bochum</em></li>
 <li> <a href="https://zgalal.github.io">Zeinab Galal</a>, postdoc (2023-2025), now an assistant professor at the <em>University of Kyoto</em></li>
 <li> <a href="https://sites.google.com/view/francescogavazzo/home">Francesco Gavazzo</a>, PhD student (2016-2019), postdoc (2020-2022), now a tenure-track assistant professor at the <em>University of Padova</em>.</li>
 <li> <a href="https://geoffroy.re/en/cv/">Guillaume Geoffroy</a>, postdoc (2019-2021), now associate professor at <em>Université de Paris</em>.</li>
