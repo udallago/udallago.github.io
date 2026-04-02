@@ -12,9 +12,9 @@ title: Community
 <li> <b>FSCD</b>, "Formal Structures in Computation and Deduction", from <em>2024</em>.</li>
 <li> <b>LICS</b>, "Logic in Computer Science", from <em>2023</em>.</li>
 <li> <b>FoSSaCS</b>, "Foundations of Software Science and Computational Structures", from <em>2018</em> to <em>2023</em>.</li>
-<li> <b>TLCA</b> "Typed Lambda Calculi and Applications", from <em>2014</em> to <em>2016</em>.</li>
-<li> <b>DICE</b> "Developments in Implicit Complexity", since <em>2012</em>.</li>
-<li> <b>LCC</b> "Logic and Computational Complexity", from <em>2016</em> to <em>2022</em>.</li>
+<li> <b>TLCA</b>, "Typed Lambda Calculi and Applications", from <em>2014</em> to <em>2016</em>.</li>
+<li> <b>DICE</b>, "Developments in Implicit Complexity", since <em>2012</em>.</li>
+<li> <b>LCC</b>, "Logic and Computational Complexity", from <em>2016</em> to <em>2022</em>.</li>
 </ul>
 
 <h2 class="fat-bottom">Program Chairing</h2>
