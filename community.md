@@ -28,6 +28,8 @@ title: Community
 <h2 class="fat-bottom">Program Committee Membership</h2>
 He regularly serves in the program committee of international conferences about programming language theory and logic in computer science. The following is a selection of some recent ones:
 <ul>
+<li> <b>ESOP 2027</b>, <a href="https://etaps.org/2027/conferences/esop/">36th European Symposium on Programming</a>, Copenhagen, Denmark, <em>April 2027</em>.</li>
+<li> <b>POPL 2027</b>, <a href="https://conf.researchr.org/home/POPL-2027">51st annual ACM SIGPLAN Symposium on Principles of Programming Language</a>, Mexico City, Mexico, <em>January 2027</em>.</li>
 <li> <b>ICTCS 2026</b>, <a href="https://ictcs2026.uniud.it">27th Italian Conference on Theoretical Computer Science</a>, Udine, Italy, <em>September 2026</em>.</li>
 <li> <b>MFCS 2026</b>, <a href="https://mfcs2026.irif.fr">51st International Symposium on Mathematical Foundations of Computer Science</a>, Paris, France, <em>August 2026</em>.</li>
 <li> <b>WoLLiC 2026</b>, <a href="https://wollic.org/wollic2026/">32nd Workshop on Logic, Language, Information and Computation</a>, Lima, Perù, <em>August 2026</em>.</li>
