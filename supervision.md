@@ -10,16 +10,13 @@ title: Supervision
 </ul>
 <h2 class="fat-bottom">PhD Students and Research Assistants</h2>
 <ul>
-<li>Apolline Rodary</li>
+<li>Travis Leblanc, from November 2026</li>
 </ul>
 <h2 class="fat-bottom">Master and Bachelor Students</h2>
 <ul>
 <li> Alex Bastianini</li>
-<li> Marius Capelli</li>
 <li> Davide Cavallo</li>
 <li> Andrea Corradetti</li>
-<li> Axel DeMasure</li>
-<li> Travis Leblanc</li>
 <li> Sofia Zanelli</li>
 </ul>
 <h2 class="fat-bottom">Former Supervisees (Last 10 Years)</h2>
@@ -29,6 +26,7 @@ title: Supervision
 <li> <a href="https://www.irif.fr/users/arrial/index">Victor Arrial </a>, postdoc (2024-2025).</li>
 <li> <a href="https://www-sop.inria.fr/members/Martin.Avanzini/">Martin Avanzini </a>, postdoc (2014-2017), now a researcher at <em> INRIA Sophia-Antipolis</em>.</li>
 <li> <a href="https://davidebarbarossa12.github.io">Davide Barbarossa</a>, postdoc (2022-2024), now a postdoc at the <em>University of Bath</em>.</li>
+<li> Alex Bastianini, bachelor student (2026), now a master student at <em>EPFL</em>.</li>
 <li> <a href="https://lipn.univ-paris13.fr/~breuvart/">Flavien Breuvart</a>, postdoc (2015-2016), now associate professor at the <em>Université Paris Nord</em>.</li>
 <li> <a href="https://kostiachardonnet.github.io/">Kostia Chardonnet</a>, postdoc (2023-2024), now a postdoc at <em>INRIA Nancy</em>.</li>
 <li> <a href="https://www.unibo.it/sitoweb/andrea.colledan/">Andrea Colledan</a>, PhD student (2022-2025), now at <em>Blue Reply</em>.</li>
