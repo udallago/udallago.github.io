@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Projects
+title: Talks
 ---
 
 <h2 class="fat-bottom">Recent Invited Talks</h2>
