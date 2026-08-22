@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Research
 ---
 <h2 class="fat-bottom">Research</h2>
 
