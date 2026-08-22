@@ -32,8 +32,8 @@ He regularly serves in the program committee of international conferences about 
 <li> <b>POPL 2027</b>, <a href="https://conf.researchr.org/home/POPL-2027">51st annual ACM SIGPLAN Symposium on Principles of Programming Language</a>, Mexico City, Mexico, <em>January 2027</em>.</li>
 <li> <b>ICTCS 2026</b>, <a href="https://ictcs2026.uniud.it">27th Italian Conference on Theoretical Computer Science</a>, Udine, Italy, <em>September 2026</em>.</li>
 <li> <b>MFCS 2026</b>, <a href="https://mfcs2026.irif.fr">51st International Symposium on Mathematical Foundations of Computer Science</a>, Paris, France, <em>August 2026</em>.</li>
-<li> <b>WoLLiC 2026</b>, <a href="https://wollic.org/wollic2026/">32nd Workshop on Logic, Language, Information and Computation</a>, Lima, Perù, <em>August 2026</em>.</li>
-<li> <b>FSCD 2026</b>, <a href="https://fscd2026.github.io">11th International Conference on Formal Structures for Computation and Deduction</a>, Lisbon, France, <em>July 2026</em>.</li>
+<li> <b>WoLLiC 2026</b>, <a href="https://wollic.org/wollic2026/">32nd Workshop on Logic, Language, Information and Computation</a>, Lima, Peru, <em>August 2026</em>.</li>
+<li> <b>FSCD 2026</b>, <a href="https://fscd2026.github.io">11th International Conference on Formal Structures for Computation and Deduction</a>, Lisbon, Portugal, <em>July 2026</em>.</li>
 <li> <b>FoSSaCS 2026</b>, <a href="https://etaps.org/2026/">29th International Conference on Foundations of Software Science and Computation Structures</a>, Torino, Italy, <em>April 2026</em>.</li>
 <li> <b>PlanQC 2026</b>, <a href="https://popl26.sigplan.org/home/planqc-2026">6th International Workshop on Programming Languages for Quantum Computing</a>, Rennes, France, <em>January 2026</em>.</li>
 <li> <b>FSTTCS 2025</b>, <a href="https://www.fsttcs.org.in/2025/">45th IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science</a>, Goa, India <em>December 2025</em>.</li>
@@ -42,7 +42,7 @@ He regularly serves in the program committee of international conferences about 
 <li> <b>FoSSaCS 2025</b>, <a href="https://etaps.org/2025/">28th International Conference on Foundations of Software Science and Computation Structures</a>, Hamilton, Canada, <em>April 2025</em>.</li>
 <li> <b>CSL 2025</b>, <a href="https://www.eacsl.org/csl-conferences/">33rd EACSL Annual Conference on Computer Science Logic</a>, Amsterdam, Netherlands, <em>February 2025</em>.</li>
 <li> <b>MFCS 2024</b>, <a href="http://www.mfcs.sk">49th International Symposium on Mathematical Foundations of Computer Science</a>, Bratislava, Slovakia, <em>August 2024</em>.</li>
-<li> <b>ESOP 2024</b>, <a href="https://etaps.org/2024/conferences/esop/">33rd European Symposium on Programming</a>, University of Luxemburg, Luxemburg, <em>April 2024</em>.</li>
+<li> <b>ESOP 2024</b>, <a href="https://etaps.org/2024/conferences/esop/">33rd European Symposium on Programming</a>, Luxembourg City, Luxembourg, <em>April 2024</em>.</li>
 <li> <b>FSTTCS 2023</b>, <a href="https://www.fsttcs.org.in/2023/">43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science</a>, IIIT Hyderabad, India, <em>December 2023</em>.</li>
 <li> <b>LICS 2023</b>, <a href="https://lics.siglog.org/lics23/">38th Annual ACM/IEEE Symposium on Logic in Computer Science</a>, Boston, USA, <em>June 2023</em>.</li>
 </ul>
