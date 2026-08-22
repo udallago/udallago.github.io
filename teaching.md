@@ -1,5 +1,6 @@
 ---
 layout: default
+title : Teaching
 ---
 
 <h2 class="fat-bottom">@UNIBO</h2>
