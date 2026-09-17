@@ -7,7 +7,7 @@ title: Publications
   Loading Data from DBLP, Please Wait...
 </div>
 <div id="pub_list">
-  <script src="https://bibbase.org/show?bib=https://dblp.org/pid/44/3105.bib&amp;jsonp=1&amp;fullnames=1&amp;hidemenu=true&amp;commas=true&amp;nocache=1"></script>
+  <script src="https://bibbase.org/show?bib=https://dblp.org/pid/44/3105.bib&amp;jsonp=1&amp;fullnames=1&amp;hidemenu=true&amp;commas=true"></script>
 </div>
 <script>
   x = $("#pub_list")[0].innerHTML;
