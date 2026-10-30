@@ -11,13 +11,15 @@ title: Supervision
 <h2 class="fat-bottom">PhD Students and Research Assistants</h2>
 <ul>
 <li>Travis Leblanc, from November 2026</li>
+<li>Giulia Tonolo, from November 2026</li>
 </ul>
 <h2 class="fat-bottom">Master and Bachelor Students</h2>
 <ul>
-<li> Alex Bastianini</li>
-<li> Davide Cavallo</li>
+<li> Caterina Chiavellati</li>
 <li> Andrea Corradetti</li>
-<li> Sofia Zanelli</li>
+<li> Stefano Galligani</li>
+<li> Angela Muzzarelli</li>
+<li> Angela Speranza</li>
 </ul>
 <h2 class="fat-bottom">Former Supervisees (Last 10 Years)</h2>
 <ul>
