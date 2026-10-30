@@ -15,11 +15,15 @@ title: Supervision
 </ul>
 <h2 class="fat-bottom">Master and Bachelor Students</h2>
 <ul>
+<li> Aileen Busnelli Urso</li>
 <li> Caterina Chiavellati</li>
 <li> Andrea Corradetti</li>
 <li> Stefano Galligani</li>
 <li> Angela Muzzarelli</li>
+<li> Karan Puri</li>
+<li> Alexandra Simone</li>
 <li> Angela Speranza</li>
+<li> Leonardo Venturi</li>
 </ul>
 <h2 class="fat-bottom">Former Supervisees (Last 10 Years)</h2>
 <ul>
