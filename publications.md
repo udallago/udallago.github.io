@@ -85,17 +85,30 @@ title: Publications
       title.href = p.url || "https://dblp.org/pid/44/3105.html";
       li.appendChild(title);
 
+      // Nome della conferenza o del journal in corsivo
+      if (p.venue) {
+        li.appendChild(document.createTextNode(". "));
+
+        const venue = document.createElement("em");
+        venue.textContent = p.venue;
+        li.appendChild(venue);
+      }
+
+      // Altri dettagli bibliografici
       const details = [
-        p.venue,
         p.volume,
         p.number ? "(" + p.number + ")" : "",
         p.pages ? "pp. " + p.pages : "",
         p.year
       ].filter(Boolean).join(", ");
 
-      li.appendChild(
-        document.createTextNode(". " + details + ".")
-      );
+      if (details) {
+        li.appendChild(
+          document.createTextNode(", " + details + ".")
+        );
+      } else {
+        li.appendChild(document.createTextNode("."));
+      }
 
       list.appendChild(li);
     }
