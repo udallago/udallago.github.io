@@ -86,11 +86,12 @@ title: Publications
       title.href = p.url || "https://dblp.org/pid/44/3105.html";
       li.appendChild(title);
 
-      // Nome della conferenza o del journal in grassetto
+      // Nome della conferenza o del journal
+      // con lo stesso tag usato in community.md
       if (p.venue) {
         li.appendChild(document.createTextNode(". "));
 
-        const venue = document.createElement("strong");
+        const venue = document.createElement("b");
         venue.textContent = p.venue;
         li.appendChild(venue);
       }
