@@ -3,9 +3,6 @@ layout: default
 title: Publications
 ---
 
-For an up-to-date list of Ugo Dal Lago's publications,
-see also the [DBLP profile](https://dblp.org/pid/44/3105.html).
-
 <div id="dblp-publications">
   Loading publications...
 </div>
@@ -54,7 +51,7 @@ see also the [DBLP profile](https://dblp.org/pid/44/3105.html).
         pages: get("pages"),
         url: get("ee") || get("url")
       };
-    });
+    }).filter(p => p.venue !== "CoRR");
 
     publications.sort(
       (a, b) => Number(b.year) - Number(a.year)
