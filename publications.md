@@ -1,3 +1,4 @@
+
 ---
 layout: default
 title: Publications
@@ -85,11 +86,11 @@ title: Publications
       title.href = p.url || "https://dblp.org/pid/44/3105.html";
       li.appendChild(title);
 
-      // Nome della conferenza o del journal in corsivo
+      // Nome della conferenza o del journal in grassetto
       if (p.venue) {
         li.appendChild(document.createTextNode(". "));
 
-        const venue = document.createElement("em");
+        const venue = document.createElement("strong");
         venue.textContent = p.venue;
         li.appendChild(venue);
       }
