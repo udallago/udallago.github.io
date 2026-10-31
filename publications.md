@@ -31,6 +31,10 @@ title: Publications
 
     const entries = Array.from(xml.querySelectorAll("r"));
 
+    function cleanName(name) {
+      return name.trim().replace(/\s+\d{4}$/, "");
+    }
+
     const publications = entries.map(entry => {
       const item = entry.firstElementChild;
 
@@ -39,14 +43,19 @@ title: Publications
         return el ? el.textContent.trim() : "";
       }
 
+      const authors = Array.from(
+        item.querySelectorAll("author")
+      ).map(a => cleanName(a.textContent));
+
+      const editors = Array.from(
+        item.querySelectorAll("editor")
+      ).map(e => cleanName(e.textContent));
+
       return {
         year: get("year"),
         title: get("title"),
-        authors: Array.from(
-          item.querySelectorAll("author")
-        ).map(a =>
-          a.textContent.trim().replace(/\s+\d{4}$/, "")
-        ),
+        authors: authors,
+        editors: editors,
         venue: get("journal") || get("booktitle"),
         volume: get("volume"),
         number: get("number"),
@@ -78,10 +87,24 @@ title: Publications
 
       const li = document.createElement("li");
 
-      // Autori senza suffissi numerici DBLP
-      const authors = document.createElement("span");
-      authors.textContent = p.authors.join(", ") + ". ";
-      li.appendChild(authors);
+      // Autori oppure editor dei proceedings
+      if (p.authors.length > 0) {
+        li.appendChild(
+          document.createTextNode(
+            p.authors.join(", ") + ". "
+          )
+        );
+      } else if (p.editors.length > 0) {
+        const label = p.editors.length === 1
+          ? " (editor). "
+          : " (editors). ";
+
+        li.appendChild(
+          document.createTextNode(
+            p.editors.join(", ") + label
+          )
+        );
+      }
 
       // Titolo cliccabile
       const title = document.createElement("a");
