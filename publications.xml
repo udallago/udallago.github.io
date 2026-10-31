@@ -1,0 +1,3478 @@
+<?xml version="1.0"?>
+<dblpperson name="Ugo Dal Lago" pid="44/3105" n="265">
+<person key="homepages/44/3105" mdate="2021-07-24">
+<author pid="44/3105">Ugo Dal Lago</author>
+<url>http://www.cs.unibo.it/~dallago/</url>
+<url>https://scholar.google.com/citations?user=AeUL3vwAAAAJ</url>
+<url>https://dl.acm.org/profile/81100511737</url>
+<url>https://orcid.org/0000-0001-9200-070X</url>
+<url>https://www.wikidata.org/entity/Q93944804</url>
+<note type="affiliation">Universit&#224; degli Studi di Bologna, Italy</note>
+</person>
+<r><article key="journals/jfp/AccattoliLV26" mdate="2026-10-01">
+<author pid="90/7361">Beniamino Accattoli</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="220/3433">Gabriele Vanoni</author>
+<title>Multi types and reasonable space.</title>
+<year>2026</year>
+<volume>36</volume>
+<journal>J. Funct. Program.</journal>
+<ee type="oa">https://doi.org/10.46298/jfp.17809</ee>
+<url>db/journals/jfp/jfp36.html#AccattoliLV26</url>
+</article>
+</r>
+<r><article key="journals/pacmpl/CatoziLS26" mdate="2026-09-09">
+<author orcid="0009-0007-0829-5789" pid="439/5170">Stefano Catozi</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0001-9286-230X" pid="155/8127">Taro Sekiyama</author>
+<title>When Types Intersect and Effects Get Handled.</title>
+<pages>1013-1041</pages>
+<year>2026</year>
+<volume>10</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>ICFP</number>
+<ee type="oa">https://doi.org/10.1145/3828707</ee>
+<url>db/journals/pacmpl/pacmpl10.html#CatoziLS26</url>
+</article>
+</r>
+<r><article key="journals/pacmpl/SakayoriCL26" mdate="2026-02-01">
+<author orcid="0000-0003-3238-9279" pid="198/3862">Ken Sakayori</author>
+<author orcid="0000-0002-0049-0391" pid="292/3895">Andrea Colledan</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<title>On Circuit Description Languages, Indexed Monads, and Resource Analysis.</title>
+<pages>688-717</pages>
+<year>2026</year>
+<volume>10</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>POPL</number>
+<ee type="oa">https://doi.org/10.1145/3776666</ee>
+<url>db/journals/pacmpl/pacmpl10.html#SakayoriCL26</url>
+<stream>streams/journals/pacmpl</stream>
+</article>
+</r>
+<r><article key="journals/tcs/LagoV26" mdate="2026-02-01">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0001-8762-8674" pid="220/3433">Gabriele Vanoni</author>
+<title>(Definitely not) Boring interaction abstract machines.</title>
+<pages>115683</pages>
+<year>2026</year>
+<volume>1064</volume>
+<journal>Theor. Comput. Sci.</journal>
+<ee>https://doi.org/10.1016/j.tcs.2025.115683</ee>
+<url>db/journals/tcs/tcs1064.html#LagoV26</url>
+<stream>streams/journals/tcs</stream>
+</article>
+</r>
+<r><inproceedings key="conf/concur/LagoG26" mdate="2026-08-26">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="268/3690">Zeinab Galal</author>
+<title>Coinductive Reasoning for Parametrized Functors and Monads.</title>
+<pages>29:1-29:24</pages>
+<year>2026</year>
+<booktitle>CONCUR</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.CONCUR.2026.29</ee>
+<crossref>conf/concur/2026</crossref>
+<url>db/conf/concur/concur2026.html#LagoG26</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictcs/CatoziLV26" mdate="2026-09-29">
+<author orcid="0009-0007-0829-5789" pid="439/5170">Stefano Catozi</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0001-8762-8674" pid="220/3433">Gabriele Vanoni</author>
+<title>On Jumps, Interactions, and Intersection Types.</title>
+<booktitle>ICTCS</booktitle>
+<year>2026</year>
+<pages>36-40</pages>
+<crossref>conf/ictcs/2026</crossref>
+<ee type="oa">https://ceur-ws.org/Vol-4269/paper77.pdf</ee>
+<url>db/conf/ictcs/ictcs2026.html#CatoziLV26</url>
+<stream>streams/conf/ictcs</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictcs/ChardonnetLHP26" mdate="2026-09-29">
+<author orcid="0009-0000-0671-6390" pid="270/6032">Kostia Chardonnet</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0003-2647-0310" pid="61/5628">Naohiko Hoshino</author>
+<author orcid="0000-0003-4250-9051" pid="147/5177">Paolo Pistone</author>
+<title>Compiling Quantum Lambda-Terms into Circuits via the Geometry of Interaction.</title>
+<booktitle>ICTCS</booktitle>
+<year>2026</year>
+<pages>424-430</pages>
+<crossref>conf/ictcs/2026</crossref>
+<ee type="oa">https://ceur-ws.org/Vol-4269/paper76.pdf</ee>
+<url>db/conf/ictcs/ictcs2026.html#ChardonnetLHP26</url>
+<stream>streams/conf/ictcs</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lics/LagoFP26" mdate="2026-07-24">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="436/0458">Guido Fiorillo</author>
+<author pid="147/5177">Paolo Pistone</author>
+<title>On Higher-Order Probabilistic Verification via the Weighted Relational Model of Linear Logic.</title>
+<pages>34:1-34:27</pages>
+<year>2026</year>
+<booktitle>LICS</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.LICS.2026.34</ee>
+<crossref>conf/lics/2026</crossref>
+<url>db/conf/lics/lics2026.html#LagoFP26</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mfcs/CatoziLV26" mdate="2026-08-24">
+<author pid="439/5170">Stefano Catozi</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="220/3433">Gabriele Vanoni</author>
+<title>On Jumps, Interactions, and Intersection Types.</title>
+<pages>64:1-64:16</pages>
+<year>2026</year>
+<booktitle>MFCS</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.MFCS.2026.64</ee>
+<crossref>conf/mfcs/2026</crossref>
+<url>db/conf/mfcs/mfcs2026.html#CatoziLV26</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2602-17482" mdate="2026-03-29">
+<author pid="270/6032">Kostia Chardonnet</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="61/5628">Naohiko Hoshino</author>
+<author pid="147/5177">Paolo Pistone</author>
+<title>Compiling Quantum Lambda-Terms into Circuits via the Geometry of Interaction.</title>
+<year>2026</year>
+<month>February</month>
+<volume>abs/2602.17482</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2602.17482</ee>
+<url>db/journals/corr/corr2602.html#abs-2602-17482</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2603-01317" mdate="2026-04-05">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="61/5628">Naohiko Hoshino</author>
+<author pid="147/5177">Paolo Pistone</author>
+<title>On the Metric Nature of (Differential) Logical Relations.</title>
+<year>2026</year>
+<month>March</month>
+<volume>abs/2603.01317</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2603.01317</ee>
+<url>db/journals/corr/corr2603.html#abs-2603-01317</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2604-27986" mdate="2026-05-19">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="436/0458">Guido Fiorillo</author>
+<author pid="147/5177">Paolo Pistone</author>
+<title>On Higher-Order Probabilistic Verification via the Weighted Relational Model of Linear Logic.</title>
+<year>2026</year>
+<month>April</month>
+<volume>abs/2604.27986</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2604.27986</ee>
+<url>db/journals/corr/corr2604.html#abs-2604-27986</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2606-09526" mdate="2026-07-05">
+<author pid="439/5170">Stefano Catozi</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="155/8127">Taro Sekiyama</author>
+<title>When Types Intersect and Effects Get Handled.</title>
+<year>2026</year>
+<month>June</month>
+<volume>abs/2606.09526</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2606.09526</ee>
+<url>db/journals/corr/corr2606.html#abs-2606-09526</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2606-27062" mdate="2026-07-09">
+<author pid="439/5170">Stefano Catozi</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="220/3433">Gabriele Vanoni</author>
+<title>On Jumps, Interactions, and Intersection Types.</title>
+<year>2026</year>
+<month>June</month>
+<volume>abs/2606.27062</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2606.27062</ee>
+<url>db/journals/corr/corr2606.html#abs-2606-27062</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2608-02596" mdate="2026-09-04">
+<author pid="333/1354">R&#233;my Cerda</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<title>Staying Productive Under the Palm Trees: On Graded Coeffect Typing in the Tropical Semiring.</title>
+<year>2026</year>
+<month>August</month>
+<volume>abs/2608.02596</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2608.02596</ee>
+<url>db/journals/corr/corr2608.html#abs-2608-02596</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2609-35691" mdate="2026-10-15">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="268/3690">Zeinab Galal</author>
+<title>Coinductive reasoning for parametrized functors and monads.</title>
+<year>2026</year>
+<month>September</month>
+<volume>abs/2609.35691</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2609.35691</ee>
+<url>db/journals/corr/corr2609.html#abs-2609-35691</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/lmcs/BaillotLKV25" mdate="2026-02-01">
+<author pid="57/6862">Patrick Baillot</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="01/3861">Cynthia Kop</author>
+<author orcid="0000-0003-1350-3478" pid="271/9946">Deivid Vale</author>
+<title>A Characterization of Basic Feasible Functionals Through Higher-Order Rewriting and Tuple Interpretations.</title>
+<year>2025</year>
+<volume>21</volume>
+<journal>Log. Methods Comput. Sci.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.46298/lmcs-21(4:19)2025</ee>
+<url>db/journals/lmcs/lmcs21.html#BaillotLKV25</url>
+<stream>streams/journals/lmcs</stream>
+</article>
+</r>
+<r><article key="journals/pacmpl/SekiyamaL025" mdate="2026-02-25">
+<author orcid="0000-0001-9286-230X" pid="155/8127">Taro Sekiyama</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0002-4225-8195" pid="24/6058">Hiroshi Unno 0001</author>
+<title>On Higher-Order Model Checking of Effectful Answer-Type-Polymorphic Programs.</title>
+<pages>3726-3754</pages>
+<year>2025</year>
+<volume>9</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>OOPSLA2</number>
+<ee type="oa">https://doi.org/10.1145/3763184</ee>
+<url>db/journals/pacmpl/pacmpl9.html#SekiyamaL025</url>
+</article>
+</r>
+<r><article key="journals/pacmpl/ColledanL25" mdate="2025-02-14">
+<author orcid="0000-0002-0049-0391" pid="292/3895">Andrea Colledan</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<title>Flexible Type-Based Resource Estimation in Quantum Circuit Description Languages.</title>
+<pages>1386-1416</pages>
+<year>2025</year>
+<volume>9</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>POPL</number>
+<ee type="oa">https://doi.org/10.1145/3704883</ee>
+<url>db/journals/pacmpl/pacmpl9.html#ColledanL25</url>
+<stream>streams/journals/pacmpl</stream>
+</article>
+</r>
+<r><article key="journals/toplas/ColledanLV25" mdate="2026-04-12">
+<author orcid="0000-0002-0049-0391" pid="292/3895">Andrea Colledan</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0003-0732-5476" pid="05/10429">Niki Vazou</author>
+<title>Circuit Width Estimation via Effect Typing and Linear Dependency.</title>
+<year>2025</year>
+<month>September</month>
+<pages>13:1-13:35</pages>
+<volume>47</volume>
+<journal>ACM Trans. Program. Lang. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3737282</ee>
+<url>db/journals/toplas/toplas47.html#ColledanLV25</url>
+<stream>streams/journals/toplas</stream>
+</article>
+</r>
+<r><inproceedings key="conf/fscd/LagoHP25" mdate="2025-07-08">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="61/5628">Naohiko Hoshino</author>
+<author pid="147/5177">Paolo Pistone</author>
+<title>On the Metric Nature of (Differential) Logical Relations.</title>
+<pages>15:1-15:22</pages>
+<year>2025</year>
+<booktitle>FSCD</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.FSCD.2025.15</ee>
+<crossref>conf/fscd/2025</crossref>
+<url>db/conf/fscd/fscd2025.html#LagoHP25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppdp/Lago25" mdate="2026-02-01">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<title>Counting Qubits and Gates: Resource Analysis in Quantum Programming Languages.</title>
+<pages>1:1-1:3</pages>
+<year>2025</year>
+<booktitle>PPDP</booktitle>
+<ee>https://doi.org/10.1145/3756907.3756908</ee>
+<crossref>conf/ppdp/2025</crossref>
+<url>db/conf/ppdp/ppdp2025.html#Lago25</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2503-04408" mdate="2025-04-11">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="256/1076">Federico Olimpieri</author>
+<title>Linearization via Rewriting (Long Version).</title>
+<year>2025</year>
+<month>March</month>
+<volume>abs/2503.04408</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2503.04408</ee>
+<url>db/journals/corr/corr2503.html#abs-2503-04408</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-00939" mdate="2025-06-18">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="61/5628">Naohiko Hoshino</author>
+<author pid="147/5177">Paolo Pistone</author>
+<title>On The Metric Nature of (Differential) Logical Relations.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.00939</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.00939</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-00939</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2511-22419" mdate="2026-01-14">
+<author pid="198/3862">Ken Sakayori</author>
+<author pid="292/3895">Andrea Colledan</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<title>On Circuit Description Languages, Indexed Monads, and Resource Analysis.</title>
+<year>2025</year>
+<month>November</month>
+<volume>abs/2511.22419</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2511.22419</ee>
+<url>db/journals/corr/corr2511.html#abs-2511-22419</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/apal/AntonelliLP24" mdate="2025-05-31">
+<author orcid="0009-0006-9072-4847" pid="289/0021">Melissa Antonelli</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author pid="147/5177">Paolo Pistone</author>
+<title>Towards logical foundations for probabilistic computation.</title>
+<pages>103341</pages>
+<year>2024</year>
+<volume>175</volume>
+<journal>Ann. Pure Appl. Log.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1016/j.apal.2023.103341</ee>
+<url>db/journals/apal/apal175.html#AntonelliLP24</url>
+<stream>streams/journals/apal</stream>
+</article>
+</r>
+<r><article key="journals/lmcs/AccattoliLV24" mdate="2025-01-06">
+<author pid="90/7361">Beniamino Accattoli</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="220/3433">Gabriele Vanoni</author>
+<title>Reasonable Space for the &#955;-Calculus, Logarithmically.</title>
+<year>2024</year>
+<month>October - December</month>
+<volume>20</volume>
+<journal>Log. Methods Comput. Sci.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.46298/lmcs-20(4:15)2024</ee>
+<url>db/journals/lmcs/lmcs20.html#AccattoliLV24</url>
+<stream>streams/journals/lmcs</stream>
+</article>
+</r>
+<r><article key="journals/pacmpl/LagoG24" mdate="2025-01-19">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0001-9767-2011" pid="225/5709">Alexis Ghyselen</author>
+<title>On Model-Checking Higher-Order Effectful Programs.</title>
+<pages>2610-2638</pages>
+<year>2024</year>
+<month>January</month>
+<volume>8</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>POPL</number>
+<ee type="oa">https://doi.org/10.1145/3632929</ee>
+<ee>https://www.wikidata.org/entity/Q130961298</ee>
+<url>db/journals/pacmpl/pacmpl8.html#LagoG24</url>
+</article>
+</r>
+<r><article key="journals/tcs/LagoG24" mdate="2024-07-16">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="g/DanieleGorla">Daniele Gorla</author>
+<title>Preface.</title>
+<pages>114716</pages>
+<year>2024</year>
+<volume>1010</volume>
+<journal>Theor. Comput. Sci.</journal>
+<ee>https://doi.org/10.1016/j.tcs.2024.114716</ee>
+<url>db/journals/tcs/tcs1010.html#LagoG24</url>
+</article>
+</r>
+<r><inproceedings key="conf/aplas/LagoGG24" mdate="2024-11-30">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author pid="268/3690">Zeinab Galal</author>
+<author orcid="0000-0002-6533-8307" pid="324/2011">Giulia Giusti</author>
+<title>On Computational Indistinguishability and Logical Relations.</title>
+<pages>241-263</pages>
+<year>2024</year>
+<booktitle>APLAS</booktitle>
+<ee>https://doi.org/10.1007/978-981-97-8943-6_12</ee>
+<crossref>conf/aplas/2024</crossref>
+<url>db/conf/aplas/aplas2024.html#LagoGG24</url>
+<stream>streams/conf/aplas</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csfw/LagoDK24" mdate="2024-10-01">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="338/8910">Davide Davoli 0001</author>
+<author pid="k/BruceMKapron">Bruce M. Kapron</author>
+<title>On Separation Logic, Computational Independence, and Pseudorandomness.</title>
+<pages>80-95</pages>
+<year>2024</year>
+<booktitle>CSF</booktitle>
+<ee>https://doi.org/10.1109/CSF61375.2024.00040</ee>
+<crossref>conf/csfw/2024</crossref>
+<url>db/conf/csfw/csf2024.html#LagoDK24</url>
+<stream>streams/conf/csfw</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csl/AntonelliLDOP24" mdate="2025-05-31">
+<author orcid="0009-0006-9072-4847" pid="289/0021">Melissa Antonelli</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="338/8910">Davide Davoli 0001</author>
+<author pid="37/2127">Isabel Oitavem</author>
+<author pid="147/5177">Paolo Pistone</author>
+<title>Enumerating Error Bounded Polytime Algorithms Through Arithmetical Theories.</title>
+<pages>10:1-10:19</pages>
+<year>2024</year>
+<booktitle>CSL</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.CSL.2024.10</ee>
+<crossref>conf/csl/2024</crossref>
+<url>db/conf/csl/csl2024.html#AntonelliLDOP24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esop/ColledanL24" mdate="2024-06-08">
+<author orcid="0000-0002-0049-0391" pid="292/3895">Andrea Colledan</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<title>Circuit Width Estimation via Effect Typing and Linear Dependency.</title>
+<pages>3-30</pages>
+<year>2024</year>
+<booktitle>ESOP (2)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-031-57267-8_1</ee>
+<crossref>conf/esop/2024-2</crossref>
+<url>db/conf/esop/esop2024-2.html#ColledanL24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fossacs/BaillotLKV24" mdate="2024-06-08">
+<author orcid="0009-0002-9364-1140" pid="57/6862">Patrick Baillot</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0002-6337-2544" pid="01/3861">Cynthia Kop</author>
+<author orcid="0000-0003-1350-3478" pid="271/9946">Deivid Vale</author>
+<title>On Basic Feasible Functionals and the Interpretation Method.</title>
+<pages>70-91</pages>
+<year>2024</year>
+<booktitle>FoSSaCS (2)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-031-57231-9_4</ee>
+<crossref>conf/fossacs/2024-2</crossref>
+<url>db/conf/fossacs/fossacs2024-2.html#BaillotLKV24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppdp/LagoP24" mdate="2025-01-19">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0001-9097-1297" pid="22/6590">Luca Padovani</author>
+<title>On the Almost-Sure Termination of Binary Sessions.</title>
+<pages>9:1-9:12</pages>
+<year>2024</year>
+<booktitle>PPDP</booktitle>
+<ee>https://doi.org/10.1145/3678232.3678239</ee>
+<ee>https://www.wikidata.org/entity/Q130892404</ee>
+<crossref>conf/ppdp/2024</crossref>
+<url>db/conf/ppdp/ppdp2024.html#LagoP24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sefm/LaneseLC24" mdate="2024-12-22">
+<author orcid="0000-0003-2527-9995" pid="56/3713">Ivan Lanese</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0003-2030-8056" pid="205/2352">Vikraman Choudhury</author>
+<title>Towards Quantum Multiparty Session Types.</title>
+<pages>385-403</pages>
+<year>2024</year>
+<booktitle>SEFM</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-77382-2_22</ee>
+<crossref>conf/sefm/2024</crossref>
+<url>db/conf/sefm/sefm2024.html#LaneseLC24</url>
+<stream>streams/conf/sefm</stream>
+</inproceedings>
+</r>
+<r><proceedings key="conf/lics/2024" mdate="2024-06-24">
+<editor pid="46/609">Pawel Sobocinski 0001</editor>
+<editor pid="44/3105">Ugo Dal Lago</editor>
+<editor pid="e/JEsparza">Javier Esparza</editor>
+<title>Proceedings of the 39th Annual ACM/IEEE Symposium on Logic in Computer Science, LICS 2024, Tallinn, Estonia, July 8-11, 2024</title>
+<booktitle>LICS</booktitle>
+<publisher>ACM</publisher>
+<year>2024</year>
+<ee>https://doi.org/10.1145/3661814</ee>
+<url>db/conf/lics/lics2024.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2401-12385" mdate="2026-09-01">
+<author pid="57/6862">Patrick Baillot</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="01/3861">Cynthia Kop</author>
+<author orcid="0000-0003-1350-3478" pid="271/9946">Deivid Vale</author>
+<title>On Basic Feasible Functionals and the Interpretation Method.</title>
+<year>2024</year>
+<volume>abs/2401.12385</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2401.12385</ee>
+<url>db/journals/corr/corr2401.html#abs-2401-12385</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2405-11987" mdate="2024-06-18">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="338/8910">Davide Davoli 0001</author>
+<author pid="k/BruceMKapron">Bruce M. Kapron</author>
+<title>On Separation Logic, Computational Independence, and Pseudorandomness (Extended Version).</title>
+<year>2024</year>
+<volume>abs/2405.11987</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2405.11987</ee>
+<url>db/journals/corr/corr2405.html#abs-2405-11987</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2408-03121" mdate="2024-09-12">
+<author pid="292/3895">Andrea Colledan</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<title>Flexible Type-Based Resource Estimation in Quantum Circuit Description Languages.</title>
+<year>2024</year>
+<volume>abs/2408.03121</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2408.03121</ee>
+<url>db/journals/corr/corr2408.html#abs-2408-03121</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2408-17340" mdate="2024-09-28">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="268/3690">Zeinab Galal</author>
+<author pid="324/2011">Giulia Giusti</author>
+<title>On Computational Indistinguishability and Logical Relations.</title>
+<year>2024</year>
+<volume>abs/2408.17340</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2408.17340</ee>
+<url>db/journals/corr/corr2408.html#abs-2408-17340</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2409-11133" mdate="2025-03-03">
+<author pid="56/3713">Ivan Lanese</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0003-2030-8056" pid="205/2352">Vikraman Choudhury</author>
+<title>Towards Quantum Multiparty Session Types.</title>
+<year>2024</year>
+<volume>abs/2409.11133</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2409.11133</ee>
+<url>db/journals/corr/corr2409.html#abs-2409-11133</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2409-11999" mdate="2025-05-31">
+<author orcid="0009-0006-9072-4847" pid="289/0021">Melissa Antonelli</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="147/5177">Paolo Pistone</author>
+<title>On Randomized Computational Models and Complexity Classes: a Historical Overview.</title>
+<year>2024</year>
+<volume>abs/2409.11999</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2409.11999</ee>
+<url>db/journals/corr/corr2409.html#abs-2409-11999</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/mscs/LagoGP23" mdate="2024-03-22">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author pid="199/1997">Francesco Gavazzo</author>
+<author pid="147/5177">Paolo Pistone</author>
+<title>Preface to the special issue on metric and differential semantics.</title>
+<pages>180-181</pages>
+<year>2023</year>
+<volume>33</volume>
+<journal>Math. Struct. Comput. Sci.</journal>
+<number>4-5</number>
+<ee>https://doi.org/10.1017/s0960129523000270</ee>
+<url>db/journals/mscs/mscs33.html#LagoGP23</url>
+</article>
+</r>
+<r><article key="journals/tcs/AntonelliLP23" mdate="2025-05-31">
+<author orcid="0009-0006-9072-4847" pid="289/0021">Melissa Antonelli</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="147/5177">Paolo Pistone</author>
+<title>On counting propositional logic and Wagner's hierarchy.</title>
+<pages>113928</pages>
+<year>2023</year>
+<volume>966-967</volume>
+<journal>Theor. Comput. Sci.</journal>
+<ee type="oa">https://doi.org/10.1016/j.tcs.2023.113928</ee>
+<url>db/journals/tcs/tcs966.html#AntonelliLP23</url>
+</article>
+</r>
+<r><inproceedings key="conf/concur/Lago023" mdate="2025-03-03">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0001-7613-621X" pid="154/0136-1">Maurizio Murgia 0001</author>
+<title>Contextual Behavioural Metrics.</title>
+<pages>38:1-38:17</pages>
+<year>2023</year>
+<booktitle>CONCUR</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.CONCUR.2023.38</ee>
+<crossref>conf/concur/2023</crossref>
+<url>db/conf/concur/concur2023.html#Lago023</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csl/LagoGG23" mdate="2023-11-12">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0002-2159-0615" pid="199/1997">Francesco Gavazzo</author>
+<author pid="225/5709">Alexis Ghyselen</author>
+<title>Open Higher-Order Logic.</title>
+<pages>17:1-17:17</pages>
+<year>2023</year>
+<booktitle>CSL</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.CSL.2023.17</ee>
+<crossref>conf/csl/2023</crossref>
+<url>db/conf/csl/csl2023.html#LagoGG23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fscd/LagoHP23" mdate="2023-06-30">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="61/5628">Naohiko Hoshino</author>
+<author pid="147/5177">Paolo Pistone</author>
+<title>On the Lattice of Program Metrics.</title>
+<pages>20:1-20:19</pages>
+<year>2023</year>
+<booktitle>FSCD</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.FSCD.2023.20</ee>
+<crossref>conf/fscd/2023</crossref>
+<url>db/conf/fscd/fscd2023.html#LagoHP23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictcs/LagoV23" mdate="2023-12-18">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="220/3433">Gabriele Vanoni</author>
+<title>(Not So) Boring Abstract Machines.</title>
+<pages>225-240</pages>
+<year>2023</year>
+<booktitle>ICTCS</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-3587/9878.pdf</ee>
+<crossref>conf/ictcs/2023</crossref>
+<url>db/conf/ictcs/ictcs2023.html#LagoV23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2301-12028" mdate="2025-05-31">
+<author orcid="0009-0006-9072-4847" pid="289/0021">Melissa Antonelli</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="338/8910">Davide Davoli 0001</author>
+<author pid="37/2127">Isabel Oitavem</author>
+<author pid="147/5177">Paolo Pistone</author>
+<title>An Arithmetic Theory for the Poly-Time Random Functions.</title>
+<year>2023</year>
+<volume>abs/2301.12028</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2301.12028</ee>
+<url>db/journals/corr/corr2301.html#abs-2301-12028</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2301-12556" mdate="2023-02-01">
+<author pid="90/7361">Beniamino Accattoli</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="220/3433">Gabriele Vanoni</author>
+<title>A Log-Sensitive Encoding of Turing Machines in the &#955;-Calculus.</title>
+<year>2023</year>
+<volume>abs/2301.12556</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2301.12556</ee>
+<url>db/journals/corr/corr2301.html#abs-2301-12556</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2302-05022" mdate="2023-02-13">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="61/5628">Naohiko Hoshino</author>
+<author pid="147/5177">Paolo Pistone</author>
+<title>On the Lattice of Program Metrics.</title>
+<year>2023</year>
+<volume>abs/2302.05022</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2302.05022</ee>
+<url>db/journals/corr/corr2302.html#abs-2302-05022</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2307-07400" mdate="2023-11-06">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="154/0136-1">Maurizio Murgia 0001</author>
+<title>Contextual Behavioural Metrics (Extended Version).</title>
+<year>2023</year>
+<volume>abs/2307.07400</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2307.07400</ee>
+<url>db/journals/corr/corr2307.html#abs-2307-07400</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2308-16542" mdate="2023-09-04">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="225/5709">Alexis Ghyselen</author>
+<title>On Model-Checking Higher-Order Effectful Programs (Long Version).</title>
+<year>2023</year>
+<volume>abs/2308.16542</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2308.16542</ee>
+<url>db/journals/corr/corr2308.html#abs-2308-16542</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2310-19096" mdate="2023-11-02">
+<author pid="292/3895">Andrea Colledan</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<title>Circuit Width Estimation via Effect Typing and Linear Dependency (Long Version).</title>
+<year>2023</year>
+<volume>abs/2310.19096</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2310.19096</ee>
+<url>db/journals/corr/corr2310.html#abs-2310-19096</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2311-15003" mdate="2025-05-31">
+<author orcid="0009-0006-9072-4847" pid="289/0021">Melissa Antonelli</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="338/8910">Davide Davoli 0001</author>
+<author pid="37/2127">Isabel Oitavem</author>
+<author pid="147/5177">Paolo Pistone</author>
+<title>Enumerating Error Bounded Polytime Algorithms Through Arithmetical Theories.</title>
+<year>2023</year>
+<volume>abs/2311.15003</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2311.15003</ee>
+<url>db/journals/corr/corr2311.html#abs-2311-15003</url>
+</article>
+</r>
+<r><article key="journals/aml/LagoKO22" mdate="2023-03-21">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0002-9064-877X" pid="42/6631">Reinhard Kahle</author>
+<author pid="37/2127">Isabel Oitavem</author>
+<title>Implicit recursion-theoretic characterizations of counting classes.</title>
+<pages>1129-1144</pages>
+<year>2022</year>
+<volume>61</volume>
+<journal>Arch. Math. Log.</journal>
+<number>7-8</number>
+<ee>https://doi.org/10.1007/s00153-022-00828-4</ee>
+<url>db/journals/aml/aml61.html#LagoKO22</url>
+</article>
+</r>
+<r><article key="journals/mscs/Lago22" mdate="2023-02-25">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<title>Implicit computation complexity in higher-order programming languages: A Survey in Memory of Martin Hofmann.</title>
+<pages>760-776</pages>
+<year>2022</year>
+<month>June</month>
+<volume>32</volume>
+<journal>Math. Struct. Comput. Sci.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1017/S0960129521000505</ee>
+<url>db/journals/mscs/mscs32.html#Lago22</url>
+</article>
+</r>
+<r><article key="journals/pacmpl/AccattoliLV22" mdate="2023-08-28">
+<author orcid="0000-0003-4944-9944" pid="90/7361">Beniamino Accattoli</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0001-8762-8674" pid="220/3433">Gabriele Vanoni</author>
+<title>Multi types and reasonable space.</title>
+<pages>799-825</pages>
+<year>2022</year>
+<volume>6</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>ICFP</number>
+<ee type="oa">https://doi.org/10.1145/3547650</ee>
+<ee>https://www.wikidata.org/entity/Q114070930</ee>
+<url>db/journals/pacmpl/pacmpl6.html#AccattoliLV22</url>
+</article>
+</r>
+<r><article key="journals/pacmpl/BartheCLG22" mdate="2023-08-28">
+<author orcid="0000-0002-3853-1777" pid="b/GBarthe">Gilles Barthe</author>
+<author orcid="0000-0002-4197-0439" pid="140/7210">Rapha&#235;lle Crubill&#233;</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0002-2159-0615" pid="199/1997">Francesco Gavazzo</author>
+<title>On Feller continuity and full abstraction.</title>
+<pages>826-854</pages>
+<year>2022</year>
+<volume>6</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>ICFP</number>
+<ee type="oa">https://doi.org/10.1145/3547651</ee>
+<ee>https://www.wikidata.org/entity/Q114070928</ee>
+<url>db/journals/pacmpl/pacmpl6.html#BartheCLG22</url>
+</article>
+</r>
+<r><article key="journals/pacmpl/LagoG22" mdate="2022-12-07">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0002-2159-0615" pid="199/1997">Francesco Gavazzo</author>
+<title>Effectful program distancing.</title>
+<pages>1-30</pages>
+<year>2022</year>
+<volume>6</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>POPL</number>
+<ee type="oa">https://doi.org/10.1145/3498680</ee>
+<url>db/journals/pacmpl/pacmpl6.html#LagoG22</url>
+</article>
+</r>
+<r><article key="journals/pacmpl/LagoG22a" mdate="2022-12-07">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0002-2159-0615" pid="199/1997">Francesco Gavazzo</author>
+<title>A relational theory of effects and coeffects.</title>
+<pages>1-28</pages>
+<year>2022</year>
+<volume>6</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>POPL</number>
+<ee type="oa">https://doi.org/10.1145/3498692</ee>
+<url>db/journals/pacmpl/pacmpl6.html#LagoG22a</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccs/BartheLMR22" mdate="2025-01-19">
+<author pid="b/GBarthe">Gilles Barthe</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0009-0009-9737-0094" pid="148/1304">Giulio Malavolta</author>
+<author pid="223/5215">Itsaka Rakotonirina</author>
+<title>Tidy: Symbolic Verification of Timed Cryptographic Protocols.</title>
+<pages>263-276</pages>
+<year>2022</year>
+<booktitle>CCS</booktitle>
+<ee>https://doi.org/10.1145/3548606.3559343</ee>
+<ee>https://www.wikidata.org/entity/Q130961274</ee>
+<crossref>conf/ccs/2022</crossref>
+<url>db/conf/ccs/ccs2022.html#BartheLMR22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/concur/LagoG22" mdate="2022-09-26">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="324/2011">Giulia Giusti</author>
+<title>On Session Typing, Probabilistic Polynomial Time, and Cryptographic Experiments.</title>
+<pages>37:1-37:18</pages>
+<year>2022</year>
+<booktitle>CONCUR</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.CONCUR.2022.37</ee>
+<crossref>conf/concur/2022</crossref>
+<url>db/conf/concur/concur2022.html#LagoG22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fscd/LagoHLP22" mdate="2022-06-28">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="19/6791">Furio Honsell</author>
+<author pid="25/4329">Marina Lenisa</author>
+<author pid="147/5177">Paolo Pistone</author>
+<title>On Quantitative Algebraic Higher-Order Theories.</title>
+<pages>4:1-4:18</pages>
+<year>2022</year>
+<booktitle>FSCD</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.FSCD.2022.4</ee>
+<crossref>conf/fscd/2022</crossref>
+<url>db/conf/fscd/fscd2022.html#LagoHLP22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lics/AntonelliLP22" mdate="2025-05-31">
+<author orcid="0009-0006-9072-4847" pid="289/0021">Melissa Antonelli</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="147/5177">Paolo Pistone</author>
+<title>Curry and Howard Meet Borel.</title>
+<pages>45:1-45:13</pages>
+<year>2022</year>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1145/3531130.3533361</ee>
+<ee>https://www.wikidata.org/entity/Q130877243</ee>
+<crossref>conf/lics/2022</crossref>
+<url>db/conf/lics/lics2022.html#AntonelliLP22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lics/AccattoliLV22" mdate="2022-08-09">
+<author pid="90/7361">Beniamino Accattoli</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="220/3433">Gabriele Vanoni</author>
+<title>Reasonable Space for the &#955;-Calculus, Logarithmically.</title>
+<pages>47:1-47:13</pages>
+<year>2022</year>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1145/3531130.3533362</ee>
+<crossref>conf/lics/2022</crossref>
+<url>db/conf/lics/lics2022.html#AccattoliLV22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/types/ColledanL22" mdate="2023-07-31">
+<author pid="292/3895">Andrea Colledan</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<title>On Dynamic Lifting and Effect Typing in Circuit Description Languages.</title>
+<pages>3:1-3:21</pages>
+<year>2022</year>
+<booktitle>TYPES</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.TYPES.2022.3</ee>
+<crossref>conf/types/2022</crossref>
+<url>db/conf/types/types2022.html#ColledanL22</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/ictcs/2022" mdate="2023-03-10">
+<editor pid="44/3105">Ugo Dal Lago</editor>
+<editor pid="g/DanieleGorla">Daniele Gorla</editor>
+<title>Proceedings of the 23rd Italian Conference on Theoretical Computer Science, ICTCS 2022, Rome, Italy, September 7-9, 2022.</title>
+<booktitle>ICTCS</booktitle>
+<publisher>CEUR-WS.org</publisher>
+<year>2022</year>
+<series href="db/series/ceurws/index.html">CEUR Workshop Proceedings</series>
+<volume>3284</volume>
+<ee type="oa">https://ceur-ws.org/Vol-3284</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:0074-3284-4</ee>
+<url>db/conf/ictcs/ictcs2022.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2202-07636" mdate="2026-10-01">
+<author pid="292/3895">Andrea Colledan</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<title>On Dynamic Lifting and Effect Typing in Circuit Description Languages (Extended Version).</title>
+<year>2022</year>
+<volume>abs/2202.07636</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2202.07636</ee>
+<url>db/journals/corr/corr2202.html#abs-2202-07636</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2203-00362" mdate="2022-03-16">
+<author pid="90/7361">Beniamino Accattoli</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="220/3433">Gabriele Vanoni</author>
+<title>Reasonable Space for the &#955;-Calculus, Logarithmically.</title>
+<year>2022</year>
+<volume>abs/2203.00362</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2203.00362</ee>
+<url>db/journals/corr/corr2203.html#abs-2203-00362</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2203-11265" mdate="2025-05-31">
+<author orcid="0009-0006-9072-4847" pid="289/0021">Melissa Antonelli</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="147/5177">Paolo Pistone</author>
+<title>Curry and Howard Meet Borel.</title>
+<year>2022</year>
+<volume>abs/2203.11265</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2203.11265</ee>
+<url>db/journals/corr/corr2203.html#abs-2203-11265</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2203-15426" mdate="2022-04-04">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="199/1997">Francesco Gavazzo</author>
+<author pid="225/5709">Alexis Ghyselen</author>
+<title>On Reinforcement Learning, Effect Handlers, and the State Monad.</title>
+<year>2022</year>
+<volume>abs/2203.15426</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2203.15426</ee>
+<url>db/journals/corr/corr2203.html#abs-2203-15426</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2204-13654" mdate="2022-05-02">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="19/6791">Furio Honsell</author>
+<author pid="25/4329">Marina Lenisa</author>
+<author pid="147/5177">Paolo Pistone</author>
+<title>On Quantitative Algebraic Higher-Order Theories.</title>
+<year>2022</year>
+<volume>abs/2204.13654</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2204.13654</ee>
+<url>db/journals/corr/corr2204.html#abs-2204-13654</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2207-03360" mdate="2022-07-13">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="324/2011">Giulia Giusti</author>
+<title>On Session Typing, Probabilistic Polynomial Time, and Cryptographic Experiments (Long Version).</title>
+<year>2022</year>
+<volume>abs/2207.03360</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2207.03360</ee>
+<url>db/journals/corr/corr2207.html#abs-2207-03360</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2207-08795" mdate="2022-07-19">
+<author pid="90/7361">Beniamino Accattoli</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="220/3433">Gabriele Vanoni</author>
+<title>Multi Types and Reasonable Space (Long Version).</title>
+<year>2022</year>
+<volume>abs/2207.08795</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2207.08795</ee>
+<url>db/journals/corr/corr2207.html#abs-2207-08795</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2207-10590" mdate="2022-07-25">
+<author pid="b/GBarthe">Gilles Barthe</author>
+<author pid="140/7210">Rapha&#235;lle Crubill&#233;</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="199/1997">Francesco Gavazzo</author>
+<title>On Feller Continuity and Full Abstraction (Long Version).</title>
+<year>2022</year>
+<volume>abs/2207.10590</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2207.10590</ee>
+<url>db/journals/corr/corr2207.html#abs-2207-10590</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2211-06671" mdate="2022-11-15">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="199/1997">Francesco Gavazzo</author>
+<author pid="225/5709">Alexis Ghyselen</author>
+<title>Open Higher-Order Logic (Long Version).</title>
+<year>2022</year>
+<volume>abs/2211.06671</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2211.06671</ee>
+<url>db/journals/corr/corr2211.html#abs-2211-06671</url>
+</article>
+</r>
+<r><article key="journals/lmcs/BreuvartLH21" mdate="2023-01-31">
+<author pid="13/11469">Flavien Breuvart</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author pid="194/3097">Agathe Herrou</author>
+<title>On Higher-Order Probabilistic Subrecursion.</title>
+<year>2021</year>
+<volume>17</volume>
+<journal>Log. Methods Comput. Sci.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.46298/lmcs-17(4:25)2021</ee>
+<url>db/journals/lmcs/lmcs17.html#BreuvartLH21</url>
+</article>
+</r>
+<r><article key="journals/mscs/LagoH21" mdate="2022-02-23">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0003-2647-0310" pid="61/5628">Naohiko Hoshino</author>
+<title>The geometry of Bayesian programming.</title>
+<pages>633-681</pages>
+<year>2021</year>
+<volume>31</volume>
+<journal>Math. Struct. Comput. Sci.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1017/S0960129521000396</ee>
+<url>db/journals/mscs/mscs31.html#LagoH21</url>
+</article>
+</r>
+<r><article key="journals/pacmpl/AvanziniBL21" mdate="2022-01-08">
+<author pid="63/5617">Martin Avanzini</author>
+<author orcid="0000-0002-3853-1777" pid="b/GBarthe">Gilles Barthe</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<title>On continuation-passing transformations and expected cost analysis.</title>
+<pages>1-30</pages>
+<year>2021</year>
+<volume>5</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>ICFP</number>
+<ee type="oa">https://doi.org/10.1145/3473592</ee>
+<url>db/journals/pacmpl/pacmpl5.html#AvanziniBL21</url>
+</article>
+</r>
+<r><article key="journals/pacmpl/AccattoliLV21" mdate="2022-10-02">
+<author pid="90/7361">Beniamino Accattoli</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0001-8762-8674" pid="220/3433">Gabriele Vanoni</author>
+<title>The (In)Efficiency of interaction.</title>
+<pages>1-33</pages>
+<year>2021</year>
+<volume>5</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>POPL</number>
+<ee type="oa">https://doi.org/10.1145/3434332</ee>
+<url>db/journals/pacmpl/pacmpl5.html#AccattoliLV21</url>
+</article>
+</r>
+<r><article key="journals/pacmpl/LagoFR21" mdate="2022-01-08">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author pid="91/4180">Claudia Faggian</author>
+<author pid="r/SRonchiDR">Simona Ronchi Della Rocca</author>
+<title>Intersection types and (positive) almost-sure termination.</title>
+<pages>1-32</pages>
+<year>2021</year>
+<volume>5</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>POPL</number>
+<ee type="oa">https://doi.org/10.1145/3434313</ee>
+<url>db/journals/pacmpl/pacmpl5.html#LagoFR21</url>
+</article>
+</r>
+<r><article key="journals/tcs/LagoG21" mdate="2021-12-15">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0002-2159-0615" pid="199/1997">Francesco Gavazzo</author>
+<title>Differential logical relations, part II increments and derivatives.</title>
+<pages>34-47</pages>
+<year>2021</year>
+<volume>895</volume>
+<journal>Theor. Comput. Sci.</journal>
+<ee>https://doi.org/10.1016/j.tcs.2021.09.027</ee>
+<url>db/journals/tcs/tcs895.html#LagoG21</url>
+</article>
+</r>
+<r><inproceedings key="conf/cie/AntonelliLP21" mdate="2025-05-31">
+<author orcid="0009-0006-9072-4847" pid="289/0021">Melissa Antonelli</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0003-4250-9051" pid="147/5177">Paolo Pistone</author>
+<title>On Measure Quantifiers in First-Order Arithmetic.</title>
+<pages>12-24</pages>
+<year>2021</year>
+<booktitle>CiE</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-80049-9_2</ee>
+<crossref>conf/cie/2021</crossref>
+<url>db/conf/cie/cie2021.html#AntonelliLP21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fscd/LagoG21" mdate="2022-01-03">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0002-2159-0615" pid="199/1997">Francesco Gavazzo</author>
+<title>Resource Transition Systems and Full Abstraction for Linear Higher-Order Effectful Programs.</title>
+<pages>23:1-23:19</pages>
+<year>2021</year>
+<booktitle>FSCD</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.FSCD.2021.23</ee>
+<crossref>conf/fscd/2021</crossref>
+<url>db/conf/fscd/fscd2021.html#LagoG21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictcs/AntonelliLP21" mdate="2023-03-10">
+<author pid="289/0021">Melissa Antonelli</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="147/5177">Paolo Pistone</author>
+<title>On Counting Propositional Logic and Wagner's Hierarchy.</title>
+<pages>107-121</pages>
+<year>2021</year>
+<booktitle>ICTCS</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-3072/paper9.pdf</ee>
+<crossref>conf/ictcs/2021</crossref>
+<url>db/conf/ictcs/ictcs2021.html#AntonelliLP21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lics/AccattoliLV21" mdate="2025-01-19">
+<author pid="90/7361">Beniamino Accattoli</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0001-8762-8674" pid="220/3433">Gabriele Vanoni</author>
+<title>The Space of Interaction.</title>
+<pages>1-13</pages>
+<year>2021</year>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1109/LICS52264.2021.9470726</ee>
+<ee>https://www.wikidata.org/entity/Q130962003</ee>
+<crossref>conf/lics/2021</crossref>
+<url>db/conf/lics/lics2021.html#AccattoliLV21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mfcs/LagoKO21" mdate="2022-06-23">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0002-9064-877X" pid="42/6631">Reinhard Kahle</author>
+<author orcid="0000-0002-3573-9281" pid="37/2127">Isabel Oitavem</author>
+<title>A Recursion-Theoretic Characterization of the Probabilistic Class PP.</title>
+<pages>35:1-35:12</pages>
+<year>2021</year>
+<booktitle>MFCS</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.MFCS.2021.35</ee>
+<crossref>conf/mfcs/2021</crossref>
+<url>db/conf/mfcs/mfcs2021.html#LagoKO21</url>
+</inproceedings>
+</r>
+<r><proceedings key="journals/corr/abs-2112-14305" mdate="2026-10-01">
+<editor pid="44/3105">Ugo Dal Lago</editor>
+<editor pid="p/ValeriadePaiva">Valeria de Paiva</editor>
+<title>Proceedings Second Joint International Workshop on Linearity &#38; Trends in Linear Logic and Applications, Linearity&#38;TLLA@IJCAR-FSCD 2020, Online, 29-30 June 2020.</title>
+<booktitle>Linearity&#38;TLLA@IJCAR-FSCD</booktitle>
+<year>2021</year>
+<series href="db/series/eptcs/index.html">EPTCS</series>
+<volume>353</volume>
+<url>db/series/eptcs/eptcs353.html</url>
+<ee type="oa">https://doi.org/10.4204/EPTCS.353</ee>
+<ee type="oa">https://doi.org/10.48550/arXiv.2112.14305</ee>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-03871" mdate="2026-10-01">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="199/1997">Francesco Gavazzo</author>
+<title>Modal Reasoning = Metric Reasoning, via Lawvere.</title>
+<year>2021</year>
+<volume>abs/2103.03871</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2103.03871</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-03871</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-12862" mdate="2026-10-09">
+<author orcid="0009-0006-9072-4847" pid="289/0021">Melissa Antonelli</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="147/5177">Paolo Pistone</author>
+<title>On Counting Propositional Logic.</title>
+<year>2021</year>
+<volume>abs/2103.12862</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2103.12862</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-12862</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2104-12124" mdate="2026-10-09">
+<author orcid="0009-0006-9072-4847" pid="289/0021">Melissa Antonelli</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="147/5177">Paolo Pistone</author>
+<title>On Measure Quantifiers in First-Order Arithmetic (Long Version).</title>
+<year>2021</year>
+<volume>abs/2104.12124</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2104.12124</ee>
+<url>db/journals/corr/corr2104.html#abs-2104-12124</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2104-13795" mdate="2026-10-01">
+<author pid="90/7361">Beniamino Accattoli</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="220/3433">Gabriele Vanoni</author>
+<title>The Space of Interaction (long version).</title>
+<year>2021</year>
+<volume>abs/2104.13795</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2104.13795</ee>
+<url>db/journals/corr/corr2104.html#abs-2104-13795</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2106-12849" mdate="2026-10-01">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="199/1997">Francesco Gavazzo</author>
+<title>Resource Transition Systems and Full Abstraction for Linear Higher-Order Effectful Systems.</title>
+<year>2021</year>
+<volume>abs/2106.12849</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2106.12849</ee>
+<url>db/journals/corr/corr2106.html#abs-2106-12849</url>
+</article>
+</r>
+<r><article key="journals/lmcs/KobayashiLG20" mdate="2020-10-28">
+<author pid="k/NaokiKobayashi">Naoki Kobayashi 0001</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="154/6684">Charles Grellois</author>
+<title>On the Termination Problem for Probabilistic Higher-Order Recursive Programs.</title>
+<year>2020</year>
+<volume>16</volume>
+<journal>Log. Methods Comput. Sci.</journal>
+<number>4</number>
+<ee type="oa">https://lmcs.episciences.org/6817</ee>
+<url>db/journals/lmcs/lmcs16.html#KobayashiLG20</url>
+</article>
+</r>
+<r><article key="journals/scp/AvanziniLY20" mdate="2020-06-15">
+<author orcid="0000-0002-6445-8833" pid="63/5617">Martin Avanzini</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0001-8872-2240" pid="36/2450-2">Akihisa Yamada 0002</author>
+<title>On probabilistic term rewriting.</title>
+<year>2020</year>
+<volume>185</volume>
+<journal>Sci. Comput. Program.</journal>
+<ee type="oa">https://doi.org/10.1016/j.scico.2019.102338</ee>
+<url>db/journals/scp/scp185.html#AvanziniLY20</url>
+</article>
+</r>
+<r><article key="journals/tcs/LagoV20" mdate="2022-10-02">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0001-8762-8674" pid="220/3433">Gabriele Vanoni</author>
+<title>On randomised strategies in the <i>&#955;</i>-calculus.</title>
+<pages>100-116</pages>
+<year>2020</year>
+<volume>813</volume>
+<journal>Theor. Comput. Sci.</journal>
+<ee>https://doi.org/10.1016/j.tcs.2019.09.033</ee>
+<url>db/journals/tcs/tcs813.html#LagoV20</url>
+</article>
+</r>
+<r><article key="journals/tcs/LagoGT20" mdate="2025-01-19">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0002-2159-0615" pid="199/1997">Francesco Gavazzo</author>
+<author pid="138/8420">Ryo Tanaka</author>
+<title>Effectful applicative similarity for call-by-name lambda calculi.</title>
+<pages>234-247</pages>
+<year>2020</year>
+<volume>813</volume>
+<journal>Theor. Comput. Sci.</journal>
+<ee>https://doi.org/10.1016/j.tcs.2019.12.025</ee>
+<ee>https://www.wikidata.org/entity/Q126398608</ee>
+<url>db/journals/tcs/tcs813.html#LagoGT20</url>
+</article>
+</r>
+<r><inproceedings key="conf/esop/BartheCLG20" mdate="2021-05-14">
+<author orcid="0000-0002-3853-1777" pid="b/GBarthe">Gilles Barthe</author>
+<author pid="140/7210">Rapha&#235;lle Crubill&#233;</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0002-2159-0615" pid="199/1997">Francesco Gavazzo</author>
+<title>On the Versatility of Open Logical Relations - Continuity, Automatic Differentiation, and a Containment Theorem.</title>
+<pages>56-83</pages>
+<year>2020</year>
+<booktitle>ESOP</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-030-44914-8_3</ee>
+<crossref>conf/esop/2020</crossref>
+<url>db/conf/esop/esop2020.html#BartheCLG20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fossacs/LagoGH20" mdate="2024-08-04">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0002-0469-4279" pid="143/2693">Giulio Guerrieri</author>
+<author orcid="0009-0001-8941-1150" pid="96/8629">Willem Heijltjes</author>
+<title>Decomposing Probabilistic Lambda-Calculi.</title>
+<pages>136-156</pages>
+<year>2020</year>
+<booktitle>FoSSaCS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-030-45231-5_8</ee>
+<crossref>conf/fossacs/2020</crossref>
+<url>db/conf/fossacs/fossacs2020.html#LagoGH20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fscd/RoccaLF20" mdate="2020-06-29">
+<author pid="r/SRonchiDR">Simona Ronchi Della Rocca</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="91/4180">Claudia Faggian</author>
+<title>Solvability in a Probabilistic Setting (Invited Talk).</title>
+<pages>1:1-1:17</pages>
+<year>2020</year>
+<booktitle>FSCD</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.FSCD.2020.1</ee>
+<crossref>conf/fscd/2020</crossref>
+<url>db/conf/fscd/fscd2020.html#RoccaLF20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalp/BarakCL20" mdate="2020-06-30">
+<author pid="b/BBarak">Boaz Barak</author>
+<author pid="140/7210">Rapha&#235;lle Crubill&#233;</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<title>On Higher-Order Cryptography.</title>
+<pages>108:1-108:16</pages>
+<year>2020</year>
+<booktitle>ICALP</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ICALP.2020.108</ee>
+<crossref>conf/icalp/2020</crossref>
+<url>db/conf/icalp/icalp2020.html#BarakCL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictcs/LagoG20" mdate="2023-03-10">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="199/1997">Francesco Gavazzo</author>
+<title>Differential Logical Relations Part II: Increments and Derivatives.</title>
+<pages>101-114</pages>
+<year>2020</year>
+<booktitle>ICTCS</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2756/paper_10.pdf</ee>
+<crossref>conf/ictcs/2020</crossref>
+<url>db/conf/ictcs/ictcs2020.html#LagoG20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppdp/AccattoliLV20" mdate="2022-10-02">
+<author pid="90/7361">Beniamino Accattoli</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0001-8762-8674" pid="220/3433">Gabriele Vanoni</author>
+<title>The Machinery of Interaction.</title>
+<pages>4:1-4:15</pages>
+<year>2020</year>
+<booktitle>PPDP</booktitle>
+<ee>https://doi.org/10.1145/3414080.3414108</ee>
+<crossref>conf/ppdp/2020</crossref>
+<url>db/conf/ppdp/ppdp2020.html#AccattoliLV20</url>
+</inproceedings>
+</r>
+<r><incollection key="books/cu/20/Lago20" mdate="2025-04-02">
+<author pid="44/3105">Ugo Dal Lago</author>
+<title>On Probabilistic &#955;-Calculi.</title>
+<pages>121-144</pages>
+<year>2020</year>
+<booktitle>Foundations of Probabilistic Programming</booktitle>
+<ee type="oa">https://doi.org/10.1017/9781108770750.005</ee>
+<crossref>books/cu/20/BKS2020</crossref>
+<url>db/books/collections/BKS2020.html#Lago20</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2001-01337" mdate="2026-10-01">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="199/1997">Francesco Gavazzo</author>
+<title>A Diagrammatic Calculus for Algebraic Effects.</title>
+<year>2020</year>
+<volume>abs/2001.01337</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2001.01337</ee>
+<url>db/journals/corr/corr2001.html#abs-2001-01337</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2002-05649" mdate="2026-10-01">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="90/7361">Beniamino Accattoli</author>
+<author pid="220/3433">Gabriele Vanoni</author>
+<title>The Abstract Machinery of Interaction (Long Version).</title>
+<year>2020</year>
+<volume>abs/2002.05649</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2002.05649</ee>
+<url>db/journals/corr/corr2002.html#abs-2002-05649</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2002-07218" mdate="2026-10-01">
+<author pid="b/BBarak">Boaz Barak</author>
+<author pid="140/7210">Rapha&#235;lle Crubill&#233;</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<title>On Higher-Order Cryptography (Long Version).</title>
+<year>2020</year>
+<volume>abs/2002.07218</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2002.07218</ee>
+<url>db/journals/corr/corr2002.html#abs-2002-07218</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2002-08392" mdate="2026-10-01">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="143/2693">Giulio Guerrieri</author>
+<author pid="96/8629">Willem Heijltjes</author>
+<title>Decomposing Probabilistic Lambda-calculi.</title>
+<year>2020</year>
+<volume>abs/2002.08392</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2002.08392</ee>
+<url>db/journals/corr/corr2002.html#abs-2002-08392</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2002-08489" mdate="2026-10-01">
+<author pid="b/GBarthe">Gilles Barthe</author>
+<author pid="140/7210">Rapha&#235;lle Crubill&#233;</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="199/1997">Francesco Gavazzo</author>
+<title>On the Versatility of Open Logical Relations: Continuity, Automatic Differentiation, and a Containment Theorem.</title>
+<year>2020</year>
+<volume>abs/2002.08489</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2002.08489</ee>
+<url>db/journals/corr/corr2002.html#abs-2002-08489</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-12689" mdate="2026-10-01">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="91/4180">Claudia Faggian</author>
+<author pid="r/SRonchiDR">Simona Ronchi Della Rocca</author>
+<title>Intersection Types and (Positive) Almost-Sure Termination.</title>
+<year>2020</year>
+<volume>abs/2010.12689</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2010.12689</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-12689</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-12988" mdate="2026-10-01">
+<author pid="90/7361">Beniamino Accattoli</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="220/3433">Gabriele Vanoni</author>
+<title>The (In)Efficiency of Interaction.</title>
+<year>2020</year>
+<volume>abs/2010.12988</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2010.12988</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-12988</url>
+</article>
+</r>
+<r><article key="journals/jar/BaillotBL19" mdate="2023-08-28">
+<author pid="57/6862">Patrick Baillot</author>
+<author pid="b/GBarthe">Gilles Barthe</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<title>Implicit Computational Complexity of Subrecursive Definitions and Applications to Cryptographic Proofs.</title>
+<pages>813-855</pages>
+<year>2019</year>
+<volume>63</volume>
+<journal>J. Autom. Reason.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10817-019-09530-2</ee>
+<ee>https://www.wikidata.org/entity/Q113901242</ee>
+<url>db/journals/jar/jar63.html#BaillotBL19</url>
+</article>
+</r>
+<r><article key="journals/pacmpl/LagoVMY19" mdate="2025-04-01">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="183/6366">Marc de Visme</author>
+<author orcid="0000-0002-5307-7744" pid="33/4213">Damiano Mazza</author>
+<author pid="143/2718">Akira Yoshimizu</author>
+<title>Intersection types and runtime errors in the pi-calculus.</title>
+<pages>7:1-7:29</pages>
+<year>2019</year>
+<volume>3</volume>
+<number>POPL</number>
+<journal>Proc. ACM Program. Lang.</journal>
+<ee type="oa">https://doi.org/10.1145/3290320</ee>
+<ee>https://www.wikidata.org/entity/Q130972939</ee>
+<url>db/journals/pacmpl/pacmpl3.html#LagoVMY19</url>
+</article>
+</r>
+<r><article key="journals/toplas/LagoG19" mdate="2025-03-03">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0003-0926-7484" pid="154/6684">Charles Grellois</author>
+<title>Probabilistic Termination by Monadic Affine Sized Typing.</title>
+<pages>10:1-10:65</pages>
+<year>2019</year>
+<volume>41</volume>
+<journal>ACM Trans. Program. Lang. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3293605</ee>
+<ee>https://www.wikidata.org/entity/Q130995004</ee>
+<url>db/journals/toplas/toplas41.html#LagoG19</url>
+</article>
+</r>
+<r><inproceedings key="conf/esop/LagoG19" mdate="2022-01-03">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0002-2159-0615" pid="199/1997">Francesco Gavazzo</author>
+<title>Effectful Normal Form Bisimulation.</title>
+<pages>263-292</pages>
+<year>2019</year>
+<booktitle>ESOP</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-030-17184-1_10</ee>
+<crossref>conf/esop/2019</crossref>
+<url>db/conf/esop/esop2019.html#LagoG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalp/LagoGY19" mdate="2022-01-03">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0002-2159-0615" pid="199/1997">Francesco Gavazzo</author>
+<author pid="143/2718">Akira Yoshimizu</author>
+<title>Differential Logical Relations, Part I: The Simply-Typed Case.</title>
+<pages>111:1-111:14</pages>
+<year>2019</year>
+<booktitle>ICALP</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ICALP.2019.111</ee>
+<crossref>conf/icalp/2019</crossref>
+<url>db/conf/icalp/icalp2019.html#LagoGY19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lics/AvanziniLG19" mdate="2022-10-02">
+<author pid="63/5617">Martin Avanzini</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0001-9767-2011" pid="225/5709">Alexis Ghyselen</author>
+<title>Type-Based Complexity Analysis of Probabilistic Functional Programs.</title>
+<pages>1-13</pages>
+<year>2019</year>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1109/LICS.2019.8785725</ee>
+<crossref>conf/lics/2019</crossref>
+<url>db/conf/lics/lics2019.html#AvanziniLG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lics/KobayashiLG19" mdate="2025-03-03">
+<author pid="k/NaokiKobayashi">Naoki Kobayashi 0001</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0003-0926-7484" pid="154/6684">Charles Grellois</author>
+<title>On the Termination Problem for Probabilistic Higher-Order Recursive Programs.</title>
+<pages>1-14</pages>
+<year>2019</year>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1109/LICS.2019.8785679</ee>
+<crossref>conf/lics/2019</crossref>
+<url>db/conf/lics/lics2019.html#KobayashiLG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lics/LagoH19" mdate="2020-03-27">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author pid="61/5628">Naohiko Hoshino</author>
+<title>The Geometry of Bayesian Programming.</title>
+<pages>1-13</pages>
+<year>2019</year>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1109/LICS.2019.8785663</ee>
+<crossref>conf/lics/2019</crossref>
+<url>db/conf/lics/lics2019.html#LagoH19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rta/LagoL19" mdate="2020-03-27">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author pid="222/1203">Thomas Leventis</author>
+<title>On the Taylor Expansion of Probabilistic lambda-terms.</title>
+<pages>13:1-13:16</pages>
+<year>2019</year>
+<booktitle>FSCD</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.FSCD.2019.13</ee>
+<crossref>conf/rta/2019</crossref>
+<url>db/conf/rta/fscd2019.html#LagoL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/entcs/LagoG19" mdate="2022-08-16">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0002-2159-0615" pid="199/1997">Francesco Gavazzo</author>
+<title>On Bisimilarity in Lambda Calculi with Continuous Probabilistic Choice.</title>
+<pages>121-141</pages>
+<year>2019</year>
+<crossref>conf/mfps/2019</crossref>
+<booktitle>MFPS</booktitle>
+<ee type="oa">https://doi.org/10.1016/j.entcs.2019.09.007</ee>
+<ee>https://www.wikidata.org/entity/Q113317356</ee>
+<url>db/journals/entcs/entcs347.html#LagoG19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-07425" mdate="2026-10-01">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="61/5628">Naohiko Hoshino</author>
+<title>The Geometry of Bayesian Programming.</title>
+<year>2019</year>
+<volume>abs/1904.07425</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.1904.07425</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-07425</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-09650" mdate="2026-10-01">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="222/1203">Thomas Leventis</author>
+<title>On the Taylor Expansion of Probabilistic &#955;-Terms (Long Version).</title>
+<year>2019</year>
+<volume>abs/1904.09650</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.1904.09650</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-09650</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-12137" mdate="2026-10-01">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="199/1997">Francesco Gavazzo</author>
+<author pid="143/2718">Akira Yoshimizu</author>
+<title>Differential Logical Relations, Part I: The Simply-Typed Case (Long Version).</title>
+<year>2019</year>
+<volume>abs/1904.12137</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.1904.12137</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-12137</url>
+</article>
+</r>
+<r><article key="journals/iandc/AvanziniL18" mdate="2020-11-03">
+<author pid="63/5617">Martin Avanzini</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<title>On sharing, memoization, and polynomial time.</title>
+<pages>3-22</pages>
+<year>2018</year>
+<volume>261</volume>
+<journal>Inf. Comput.</journal>
+<ee type="oa">https://doi.org/10.1016/j.ic.2018.05.003</ee>
+<url>db/journals/iandc/iandc261.html#AvanziniL18</url>
+</article>
+</r>
+<r><inproceedings key="conf/flops/AvanziniL018" mdate="2020-06-15">
+<author pid="63/5617">Martin Avanzini</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0001-8872-2240" pid="36/2450-2">Akihisa Yamada 0002</author>
+<title>On Probabilistic Term Rewriting.</title>
+<pages>132-148</pages>
+<year>2018</year>
+<booktitle>FLOPS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-90686-7_9</ee>
+<crossref>conf/flops/2018</crossref>
+<url>db/conf/flops/flops2018.html#AvanziniL018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictcs/LagoV18" mdate="2023-03-10">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="220/3433">Gabriele Vanoni</author>
+<title>On Randomised Strategies in the &#955;-calculus.</title>
+<pages>92-103</pages>
+<year>2018</year>
+<booktitle>ICTCS</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2243/paper9.pdf</ee>
+<crossref>conf/ictcs/2018</crossref>
+<url>db/conf/ictcs/ictcs2018.html#LagoV18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppdp/BreuvartL18" mdate="2018-11-21">
+<author pid="13/11469">Flavien Breuvart</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<title>On Intersection Types and Probabilistic Lambda Calculi.</title>
+<pages>8:1-8:13</pages>
+<year>2018</year>
+<booktitle>PPDP</booktitle>
+<ee>https://doi.org/10.1145/3236950.3236968</ee>
+<crossref>conf/ppdp/2018</crossref>
+<url>db/conf/ppdp/ppdp2018.html#BreuvartL18</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/fossacs/2018" mdate="2024-08-04">
+<editor orcid="0000-0002-5321-9343" pid="b/ChristelBaier">Christel Baier</editor>
+<editor pid="44/3105">Ugo Dal Lago</editor>
+<title>Foundations of Software Science and Computation Structures - 21st International Conference, FOSSACS 2018, Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2018, Thessaloniki, Greece, April 14-20, 2018, Proceedings</title>
+<booktitle>FoSSaCS</booktitle>
+<publisher>Springer</publisher>
+<year>2018</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>10803</volume>
+<isbn>978-3-319-89365-5</isbn>
+<isbn>978-3-319-89366-2</isbn>
+<ee type="oa">https://doi.org/10.1007/978-3-319-89366-2</ee>
+<url>db/conf/fossacs/fossacs2018.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1802-09774" mdate="2026-10-01">
+<author pid="63/5617">Martin Avanzini</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="36/2450-2">Akihisa Yamada 0002</author>
+<title>On Probabilistic Term Rewriting.</title>
+<year>2018</year>
+<volume>abs/1802.09774</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.1802.09774</ee>
+<url>db/journals/corr/corr1802.html#abs-1802-09774</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1805-03934" mdate="2026-10-01">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="220/3433">Gabriele Vanoni</author>
+<title>On Randomised Strategies in the &#955;-Calculus (Long Version).</title>
+<year>2018</year>
+<volume>abs/1805.03934</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.1805.03934</ee>
+<url>db/journals/corr/corr1805.html#abs-1805-03934</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1811-02133" mdate="2026-10-01">
+<author pid="k/NaokiKobayashi">Naoki Kobayashi 0001</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="154/6684">Charles Grellois</author>
+<title>On the Termination Problem for Probabilistic Higher-Order Recursive Programs.</title>
+<year>2018</year>
+<volume>abs/1811.02133</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.1811.02133</ee>
+<url>db/journals/corr/corr1811.html#abs-1811-02133</url>
+</article>
+</r>
+<r><article key="journals/pacmpl/AvanziniL17" mdate="2021-02-17">
+<author pid="63/5617">Martin Avanzini</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<title>Automating sized-type inference for complexity analysis.</title>
+<pages>43:1-43:29</pages>
+<year>2017</year>
+<volume>1</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>ICFP</number>
+<ee type="oa">https://doi.org/10.1145/3110287</ee>
+<url>db/journals/pacmpl/pacmpl1.html#AvanziniL17</url>
+</article>
+</r>
+<r><inproceedings key="conf/esop/CrubilleL17" mdate="2020-03-27">
+<author pid="140/7210">Rapha&#235;lle Crubill&#233;</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<title>Metric Reasoning About \lambda -Terms: The General Case.</title>
+<pages>341-367</pages>
+<year>2017</year>
+<booktitle>ESOP</booktitle>
+<ee>https://doi.org/10.1007/978-3-662-54434-1_13</ee>
+<crossref>conf/esop/2017</crossref>
+<url>db/conf/esop/esop2017.html#CrubilleL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esop/LagoG17" mdate="2025-03-03">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0003-0926-7484" pid="154/6684">Charles Grellois</author>
+<title>Probabilistic Termination by Monadic Affine Sized Typing.</title>
+<pages>393-419</pages>
+<year>2017</year>
+<booktitle>ESOP</booktitle>
+<ee>https://doi.org/10.1007/978-3-662-54434-1_15</ee>
+<crossref>conf/esop/2017</crossref>
+<url>db/conf/esop/esop2017.html#LagoG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fossacs/BreuvartLH17" mdate="2025-10-14">
+<author pid="13/11469">Flavien Breuvart</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0009-0005-7440-4117" pid="194/3097">Agathe Herrou</author>
+<title>On Higher-Order Probabilistic Subrecursion.</title>
+<pages>370-386</pages>
+<year>2017</year>
+<booktitle>FoSSaCS</booktitle>
+<ee>https://doi.org/10.1007/978-3-662-54458-7_22</ee>
+<crossref>conf/fossacs/2017</crossref>
+<url>db/conf/fossacs/fossacs2017.html#BreuvartLH17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictcs/LagoGT17" mdate="2023-03-10">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="199/1997">Francesco Gavazzo</author>
+<author pid="138/8420">Ryo Tanaka</author>
+<title>Effectful Applicative Similarity for Call-by-Name Lambda Calculi.</title>
+<pages>87-98</pages>
+<year>2017</year>
+<booktitle>ICTCS/CILC</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1949/ICTCSpaper06.pdf</ee>
+<crossref>conf/ictcs/2017</crossref>
+<url>db/conf/ictcs/ictcs2017.html#LagoGT17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lics/LagoGL17" mdate="2023-03-24">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0002-2159-0615" pid="199/1997">Francesco Gavazzo</author>
+<author pid="l/PaulBlainLevy">Paul Blain Levy</author>
+<title>Effectful applicative bisimilarity: Monads, relators, and Howe's method.</title>
+<pages>1-12</pages>
+<year>2017</year>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1109/LICS.2017.8005117</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/LICS.2017.8005117</ee>
+<crossref>conf/lics/2017</crossref>
+<url>db/conf/lics/lics2017.html#LagoGL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lics/LagoTY17" mdate="2023-03-24">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author pid="138/8420">Ryo Tanaka</author>
+<author pid="143/2718">Akira Yoshimizu</author>
+<title>The geometry of concurrent interaction: Handling multiple ports by way of multiple tokens.</title>
+<pages>1-12</pages>
+<year>2017</year>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1109/LICS.2017.8005112</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/LICS.2017.8005112</ee>
+<crossref>conf/lics/2017</crossref>
+<url>db/conf/lics/lics2017.html#LagoTY17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/popl/LagoFVY17" mdate="2026-02-19">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author pid="91/4180">Claudia Faggian</author>
+<author orcid="0000-0002-1008-5605" pid="48/1480">Beno&#238;t Valiron</author>
+<author pid="143/2718">Akira Yoshimizu</author>
+<title>The geometry of parallelism: classical, probabilistic, and quantum effects.</title>
+<pages>833-845</pages>
+<year>2017</year>
+<booktitle>POPL</booktitle>
+<ee type="oa">https://doi.org/10.1145/3009837.3009859</ee>
+<ee type="oa">https://doi.org/10.1145/3093333.3009859</ee>
+<ee>https://www.wikidata.org/entity/Q130922088</ee>
+<crossref>conf/popl/2017</crossref>
+<url>db/conf/popl/popl2017.html#LagoFVY17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/corr/AvanziniL17" mdate="2026-10-01">
+<author pid="63/5617">Martin Avanzini</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<title>Automated Sized-Type Inference and Complexity Analysis.</title>
+<booktitle>DICE-FOPARA@ETAPS</booktitle>
+<year>2017</year>
+<pages>7-16</pages>
+<crossref>journals/corr/BonfanteM17</crossref>
+<ee type="oa">https://doi.org/10.4204/EPTCS.248.5</ee>
+<ee type="oa">https://doi.org/10.48550/arXiv.1704.05585</ee>
+<url>db/series/eptcs/eptcs248.html#AvanziniL17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/LagoG17" mdate="2026-10-01">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="154/6684">Charles Grellois</author>
+<title>Probabilistic Termination by Monadic Affine Sized Typing (Long Version).</title>
+<year>2017</year>
+<volume>abs/1701.04089</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.1701.04089</ee>
+<url>db/journals/corr/corr1701.html#LagoG17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/BreuvartLH17" mdate="2026-10-01">
+<author pid="13/11469">Flavien Breuvart</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="194/3097">Agathe Herrou</author>
+<title>On Higher-Order Probabilistic Subrecursion (Long Version).</title>
+<year>2017</year>
+<volume>abs/1701.04786</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.1701.04786</ee>
+<url>db/journals/corr/corr1701.html#BreuvartLH17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/CrubilleL17" mdate="2026-10-01">
+<author pid="140/7210">Rapha&#235;lle Crubill&#233;</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<title>Metric Reasoning About &#955;-Terms: The General Case (Long Version).</title>
+<year>2017</year>
+<volume>abs/1701.05521</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.1701.05521</ee>
+<url>db/journals/corr/corr1701.html#CrubilleL17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/LagoTY17" mdate="2026-10-01">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="138/8420">Ryo Tanaka</author>
+<author pid="143/2718">Akira Yoshimizu</author>
+<title>The Geometry of Concurrent Interaction: Handling Multiple Ports by Way of Multiple Tokens (Long Version).</title>
+<year>2017</year>
+<volume>abs/1704.04620</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.1704.04620</ee>
+<url>db/journals/corr/corr1704.html#LagoTY17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/LagoGL17" mdate="2026-10-01">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="199/1997">Francesco Gavazzo</author>
+<author pid="l/PaulBlainLevy">Paul Blain Levy</author>
+<title>Effectful Applicative Bisimilarity: Monads, Relators, and Howe's Method (Long Version).</title>
+<year>2017</year>
+<volume>abs/1704.04647</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.1704.04647</ee>
+<url>db/journals/corr/corr1704.html#LagoGL17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/AvanziniL17a" mdate="2026-10-01">
+<author pid="63/5617">Martin Avanzini</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<title>Automating Sized Type Inference for Complexity Analysis (Technical Report).</title>
+<year>2017</year>
+<volume>abs/1706.09169</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.1706.09169</ee>
+<url>db/journals/corr/corr1706.html#AvanziniL17a</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1711-10078" mdate="2026-10-01">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="90/7361">Beniamino Accattoli</author>
+<title>Encoding Turing Machines into the Deterministic Lambda-Calculus.</title>
+<year>2017</year>
+<volume>abs/1711.10078</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.1711.10078</ee>
+<url>db/journals/corr/corr1711.html#abs-1711-10078</url>
+</article>
+</r>
+<r><article key="journals/corr/AccattoliL16" mdate="2026-10-01">
+<author pid="90/7361">Beniamino Accattoli</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<title>(Leftmost-Outermost) Beta Reduction is Invariant, Indeed.</title>
+<year>2016</year>
+<volume>12</volume>
+<number>1</number>
+<journal>Log. Methods Comput. Sci.</journal>
+<ee type="oa">https://doi.org/10.2168/LMCS-12(1:4)2016</ee>
+<ee type="oa">https://doi.org/10.48550/arXiv.1601.01233</ee>
+<url>db/journals/lmcs/lmcs12.html#AccattoliL16</url>
+</article>
+</r>
+<r><article key="journals/iandc/BaillotL16" mdate="2021-02-12">
+<author pid="57/6862">Patrick Baillot</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<title>Higher-order interpretations and program complexity.</title>
+<pages>56-81</pages>
+<year>2016</year>
+<volume>248</volume>
+<journal>Inf. Comput.</journal>
+<ee type="oa">https://doi.org/10.1016/j.ic.2015.12.008</ee>
+<url>db/journals/iandc/iandc248.html#BaillotL16</url>
+</article>
+</r>
+<r><article key="journals/iandc/LagoS16" mdate="2022-04-09">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0002-5445-9461" pid="27/2596">Ulrich Sch&#246;pp</author>
+<title>Computation by interaction for space-bounded functional programming.</title>
+<pages>150-194</pages>
+<year>2016</year>
+<volume>248</volume>
+<journal>Inf. Comput.</journal>
+<ee type="oa">https://doi.org/10.1016/j.ic.2015.04.006</ee>
+<url>db/journals/iandc/iandc248.html#LagoS16</url>
+</article>
+</r>
+<r><article key="journals/mscs/LagoMS16" mdate="2020-04-01">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0002-9834-1940" pid="m/SMartini">Simone Martini 0001</author>
+<author pid="s/DavideSangiorgi">Davide Sangiorgi</author>
+<title>Light logics and higher-order processes.</title>
+<pages>969-992</pages>
+<year>2016</year>
+<volume>26</volume>
+<journal>Math. Struct. Comput. Sci.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1017/S0960129514000310</ee>
+<url>db/journals/mscs/mscs26.html#LagoMS16</url>
+</article>
+</r>
+<r><article key="journals/mscs/LagoG16" mdate="2020-04-01">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author pid="00/2035">Paolo Di Giamberardino</author>
+<title>On session types and polynomial time.</title>
+<pages>1433-1458</pages>
+<year>2016</year>
+<volume>26</volume>
+<journal>Math. Struct. Comput. Sci.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1017/S0960129514000632</ee>
+<url>db/journals/mscs/mscs26.html#LagoG16</url>
+</article>
+</r>
+<r><inproceedings key="conf/icfp/BorgstromLGS16" mdate="2025-01-19">
+<author pid="38/2005">Johannes Borgstr&#246;m</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author pid="g/AndrewDGordon">Andrew D. Gordon 0001</author>
+<author pid="143/2921-2">Marcin Szymczak 0002</author>
+<title>A lambda-calculus foundation for universal probabilistic programming.</title>
+<pages>33-46</pages>
+<year>2016</year>
+<booktitle>ICFP</booktitle>
+<ee>https://doi.org/10.1145/2951913.2951942</ee>
+<ee>https://doi.org/10.1145/3022670.2951942</ee>
+<ee>https://www.wikidata.org/entity/Q130968192</ee>
+<crossref>conf/icfp/2016</crossref>
+<url>db/conf/icfp/icfp2016.html#BorgstromLGS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lics/Lago16" mdate="2021-08-11">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<title>Infinitary Lambda Calculi from a Linear Perspective.</title>
+<pages>447-456</pages>
+<year>2016</year>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1145/2933575.2934505</ee>
+<ee>https://ieeexplore.ieee.org/document/8576395</ee>
+<crossref>conf/lics/2016</crossref>
+<url>db/conf/lics/lics2016.html#Lago16</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/fopara/2015" mdate="2019-05-14">
+<editor pid="83/2290">Marko C. J. D. van Eekelen</editor>
+<editor pid="44/3105">Ugo Dal Lago</editor>
+<title>Foundational and Practical Aspects of Resource Analysis - 4th International Workshop, FOPARA 2015, London, UK, April 11, 2015, Revised Selected Papers</title>
+<booktitle>FOPARA</booktitle>
+<year>2016</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>9964</volume>
+<isbn>978-3-319-46558-6</isbn>
+<ee>https://doi.org/10.1007/978-3-319-46559-3</ee>
+<url>db/conf/fopara/fopara2015.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/Lago16" mdate="2026-10-01">
+<author pid="44/3105">Ugo Dal Lago</author>
+<title>Infinitary &#955;-Calculi from a Linear Perspective (Long Version).</title>
+<year>2016</year>
+<volume>abs/1604.08248</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.1604.08248</ee>
+<url>db/journals/corr/corr1604.html#Lago16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/LagoFVY16" mdate="2026-10-01">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="91/4180">Claudia Faggian</author>
+<author pid="48/1480">Beno&#238;t Valiron</author>
+<author pid="143/2718">Akira Yoshimizu</author>
+<title>The Geometry of Parallelism. Classical, Probabilistic, and Quantum Effects.</title>
+<year>2016</year>
+<volume>abs/1610.09629</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.1610.09629</ee>
+<url>db/journals/corr/corr1610.html#LagoFVY16</url>
+</article>
+</r>
+<r><article key="journals/iandc/LagoT15" mdate="2021-02-12">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author pid="10/10967">Paolo Parisen Toldin</author>
+<title>A higher-order characterization of probabilistic polynomial time.</title>
+<pages>114-141</pages>
+<year>2015</year>
+<volume>241</volume>
+<journal>Inf. Comput.</journal>
+<ee type="oa">https://doi.org/10.1016/j.ic.2014.10.009</ee>
+<url>db/journals/iandc/iandc241.html#LagoT15</url>
+</article>
+</r>
+<r><article key="journals/tcs/LagoB15" mdate="2021-02-17">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author pid="98/2498">Guillaume Bonfante</author>
+<title>Developments in Implicit Complexity (DICE 2012).</title>
+<pages>1-2</pages>
+<year>2015</year>
+<volume>585</volume>
+<journal>Theor. Comput. Sci.</journal>
+<ee type="oa">https://doi.org/10.1016/j.tcs.2015.03.001</ee>
+<url>db/journals/tcs/tcs585.html#LagoB15</url>
+</article>
+</r>
+<r><inproceedings key="conf/birthday/CrubilleLSV15" mdate="2020-03-27">
+<author pid="140/7210">Rapha&#235;lle Crubill&#233;</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author pid="s/DavideSangiorgi">Davide Sangiorgi</author>
+<author pid="150/6785">Valeria Vignudelli</author>
+<title>On Applicative Similarity, Sequentiality, and Full Abstraction.</title>
+<pages>65-82</pages>
+<year>2015</year>
+<booktitle>Correct System Design</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23506-6_7</ee>
+<crossref>conf/birthday/2015olderog</crossref>
+<url>db/conf/birthday/olderog2015.html#CrubilleLSV15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/concur/DengFL15" mdate="2026-02-05">
+<author orcid="0000-0003-0753-418X" pid="25/1197-1">Yuxin Deng 0001</author>
+<author orcid="0000-0002-3097-3896" pid="14/6701-1">Yuan Feng 0001</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<title>On Coinduction and Quantum Lambda Calculi.</title>
+<pages>427-440</pages>
+<year>2015</year>
+<booktitle>CONCUR</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.CONCUR.2015.427</ee>
+<crossref>conf/concur/2015</crossref>
+<url>db/conf/concur/concur2015.html#DengFL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fct/CappaiL15" mdate="2020-03-27">
+<author pid="164/5753">Alberto Cappai</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<title>On Equivalences, Metrics, and Polynomial Time.</title>
+<pages>311-323</pages>
+<year>2015</year>
+<booktitle>FCT</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-22177-9_24</ee>
+<crossref>conf/fct/2015</crossref>
+<url>db/conf/fct/fct2015.html#CappaiL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fsen/LagoR15" mdate="2020-03-27">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author pid="164/5899">Alessandro Rioli</author>
+<title>Applicative Bisimulation and Quantum &#955;-Calculi.</title>
+<pages>54-68</pages>
+<year>2015</year>
+<booktitle>FSEN</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-24644-4_4</ee>
+<crossref>conf/fsen/2015</crossref>
+<url>db/conf/fsen/fsen2015.html#LagoR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icfp/AvanziniLM15" mdate="2021-06-23">
+<author pid="63/5617">Martin Avanzini</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0001-9240-6128" pid="32/2607">Georg Moser</author>
+<title>Analysing the complexity of functional programs: higher-order meets first-order.</title>
+<pages>152-164</pages>
+<year>2015</year>
+<booktitle>ICFP</booktitle>
+<ee>https://doi.org/10.1145/2784731.2784753</ee>
+<ee>https://doi.org/10.1145/2858949.2784753</ee>
+<crossref>conf/icfp/2015</crossref>
+<url>db/conf/icfp/icfp2015.html#AvanziniLM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lics/LagoFVY15" mdate="2023-03-24">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author pid="91/4180">Claudia Faggian</author>
+<author orcid="0000-0002-1008-5605" pid="48/1480">Beno&#238;t Valiron</author>
+<author pid="143/2718">Akira Yoshimizu</author>
+<title>Parallelism and Synchronization in an Infinitary Context.</title>
+<pages>559-572</pages>
+<year>2015</year>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1109/LICS.2015.58</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/LICS.2015.58</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2876564</ee>
+<crossref>conf/lics/2015</crossref>
+<url>db/conf/lics/lics2015.html#LagoFVY15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lics/CrubilleL15" mdate="2023-03-24">
+<author pid="140/7210">Rapha&#235;lle Crubill&#233;</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<title>Metric Reasoning about &#955;-Terms: The Affine Case.</title>
+<pages>633-644</pages>
+<year>2015</year>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1109/LICS.2015.64</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/LICS.2015.64</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2876570</ee>
+<crossref>conf/lics/2015</crossref>
+<url>db/conf/lics/lics2015.html#CrubilleL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lpar/BaillotBL15" mdate="2020-03-27">
+<author pid="57/6862">Patrick Baillot</author>
+<author pid="b/GBarthe">Gilles Barthe</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<title>Implicit Computational Complexity of Subrecursive Definitions and Applications to Cryptographic Proofs.</title>
+<pages>203-218</pages>
+<year>2015</year>
+<booktitle>LPAR</booktitle>
+<ee>https://doi.org/10.1007/978-3-662-48899-7_15</ee>
+<crossref>conf/lpar/2015</crossref>
+<url>db/conf/lpar/lpar2015.html#BaillotBL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stacs/AvanziniL15" mdate="2020-03-27">
+<author pid="63/5617">Martin Avanzini</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<title>On Sharing, Memoization, and Polynomial Time.</title>
+<pages>62-75</pages>
+<year>2015</year>
+<booktitle>STACS</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.STACS.2015.62</ee>
+<crossref>conf/stacs/2015</crossref>
+<url>db/conf/stacs/stacs2015.html#AvanziniL15</url>
+</inproceedings>
+</r>
+<r><proceedings key="journals/corr/LagoH15" mdate="2026-10-01">
+<editor pid="44/3105">Ugo Dal Lago</editor>
+<editor pid="36/1754">Russ Harmer</editor>
+<title>Proceedings Tenth International Workshop on Developments in Computational Models, DCM 2014, Vienna, Austria, 13th July 2014.</title>
+<booktitle>DCM</booktitle>
+<year>2015</year>
+<series href="db/series/eptcs/index.html">EPTCS</series>
+<volume>179</volume>
+<url>db/series/eptcs/eptcs179.html</url>
+<ee type="oa">https://doi.org/10.4204/EPTCS.179</ee>
+<ee type="oa">https://doi.org/10.48550/arXiv.1504.01927</ee>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/AvanziniL15" mdate="2026-10-01">
+<author pid="63/5617">Martin Avanzini</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<title>On Sharing, Memoization, and Polynomial Time (Long Version).</title>
+<year>2015</year>
+<volume>abs/1501.00894</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.1501.00894</ee>
+<url>db/journals/corr/corr1501.html#AvanziniL15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/LagoFVY15" mdate="2026-10-01">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="91/4180">Claudia Faggian</author>
+<author pid="48/1480">Beno&#238;t Valiron</author>
+<author pid="143/2718">Akira Yoshimizu</author>
+<title>Parallelism and Synchronization in an Infinitary Context (Long Version).</title>
+<year>2015</year>
+<volume>abs/1505.03635</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.1505.03635</ee>
+<url>db/journals/corr/corr1505.html#LagoFVY15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/CrubilleL15" mdate="2026-10-01">
+<author pid="140/7210">Rapha&#235;lle Crubill&#233;</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<title>Metric Reasoning about &#955;-Terms: the Affine Case (Long Version).</title>
+<year>2015</year>
+<volume>abs/1505.03638</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.1505.03638</ee>
+<url>db/journals/corr/corr1505.html#CrubilleL15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/CappaiL15" mdate="2026-10-01">
+<author pid="164/5753">Alberto Cappai</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<title>On Equivalences, Metrics, and Polynomial Time (Long Version).</title>
+<year>2015</year>
+<volume>abs/1506.03710</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.1506.03710</ee>
+<url>db/journals/corr/corr1506.html#CappaiL15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/AvanziniLM15" mdate="2026-10-01">
+<author pid="63/5617">Martin Avanzini</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="32/2607">Georg Moser</author>
+<title>Analysing the Complexity of Functional Programs: Higher-Order Meets First-Order (Long Version).</title>
+<year>2015</year>
+<volume>abs/1506.05043</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.1506.05043</ee>
+<url>db/journals/corr/corr1506.html#AvanziniLM15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/LagoR15" mdate="2026-10-01">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="164/5899">Alessandro Rioli</author>
+<title>Applicative Bisimulation and Quantum &#955;-Calculi (Long Version).</title>
+<year>2015</year>
+<volume>abs/1506.06661</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.1506.06661</ee>
+<url>db/journals/corr/corr1506.html#LagoR15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/BorgstromLGS15" mdate="2026-10-01">
+<author pid="38/2005">Johannes Borgstr&#246;m</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="g/AndrewDGordon">Andrew D. Gordon 0001</author>
+<author pid="143/2921-2">Marcin Szymczak 0002</author>
+<title>A Lambda-Calculus Foundation for Universal Probabilistic Programming.</title>
+<year>2015</year>
+<volume>abs/1512.08990</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.1512.08990</ee>
+<url>db/journals/corr/corr1512.html#BorgstromLGS15</url>
+</article>
+</r>
+<r><article key="journals/cuza/LagoZG14" mdate="2022-04-09">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author pid="117/8029">Sara Zuppiroli</author>
+<author orcid="0000-0003-0609-8662" pid="g/MGabbrielli">Maurizio Gabbrielli</author>
+<title>Probabilistic Recursion Theory and Implicit Computational Complexity.</title>
+<pages>177-216</pages>
+<year>2014</year>
+<volume>24</volume>
+<journal>Sci. Ann. Comput. Sci.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.7561/SACS.2014.2.177</ee>
+<url>db/journals/cuza/cuza24.html#LagoZG14</url>
+</article>
+</r>
+<r><article key="journals/scp/LagoP14" mdate="2021-02-17">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author pid="43/7182">Barbara Petit</author>
+<title>Linear dependent types in a call-by-value scenario.</title>
+<pages>77-100</pages>
+<year>2014</year>
+<volume>84</volume>
+<journal>Sci. Comput. Program.</journal>
+<ee type="oa">https://doi.org/10.1016/j.scico.2013.07.010</ee>
+<url>db/journals/scp/scp84.html#LagoP14</url>
+</article>
+</r>
+<r><inproceedings key="conf/csl/AccattoliL14" mdate="2020-03-27">
+<author pid="90/7361">Beniamino Accattoli</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<title>Beta reduction is invariant, indeed.</title>
+<pages>8:1-8:10</pages>
+<year>2014</year>
+<booktitle>CSL-LICS</booktitle>
+<ee>https://doi.org/10.1145/2603088.2603105</ee>
+<crossref>conf/csl/2014</crossref>
+<url>db/conf/csl/csl2014.html#AccattoliL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csl/LagoFHY14" mdate="2021-10-14">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author pid="91/4180">Claudia Faggian</author>
+<author orcid="0000-0002-8300-4650" pid="26/4542">Ichiro Hasuo</author>
+<author pid="143/2718">Akira Yoshimizu</author>
+<title>The geometry of synchronization.</title>
+<pages>35:1-35:10</pages>
+<year>2014</year>
+<booktitle>CSL-LICS</booktitle>
+<ee>https://doi.org/10.1145/2603088.2603154</ee>
+<crossref>conf/csl/2014</crossref>
+<url>db/conf/csl/csl2014.html#LagoFHY14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esop/CrubilleL14" mdate="2020-03-27">
+<author pid="140/7210">Rapha&#235;lle Crubill&#233;</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<title>On Probabilistic Applicative Bisimulation and Call-by-Value &#955;-Calculi.</title>
+<pages>209-228</pages>
+<year>2014</year>
+<booktitle>ESOP</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-54833-8_12</ee>
+<crossref>conf/esop/2014</crossref>
+<url>db/conf/esop/esop2014.html#CrubilleL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esop/YoshimizuHFL14" mdate="2020-03-27">
+<author pid="143/2718">Akira Yoshimizu</author>
+<author pid="26/4542">Ichiro Hasuo</author>
+<author pid="91/4180">Claudia Faggian</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<title>Measurements in Proof Nets as Higher-Order Quantum Circuits.</title>
+<pages>371-391</pages>
+<year>2014</year>
+<booktitle>ESOP</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-54833-8_20</ee>
+<crossref>conf/esop/2014</crossref>
+<url>db/conf/esop/esop2014.html#YoshimizuHFL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictac/LagoZ14" mdate="2017-05-23">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="117/8029">Sara Zuppiroli</author>
+<title>Probabilistic Recursion Theory and Implicit Computational Complexity.</title>
+<pages>97-114</pages>
+<year>2014</year>
+<booktitle>ICTAC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-10882-7_7</ee>
+<crossref>conf/ictac/2014</crossref>
+<url>db/conf/ictac/ictac2014.html#LagoZ14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/popl/LagoSA14" mdate="2026-02-19">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author pid="s/DavideSangiorgi">Davide Sangiorgi</author>
+<author pid="137/7850">Michele Alberti</author>
+<title>On coinductive equivalences for higher-order probabilistic functional programs.</title>
+<pages>297-308</pages>
+<year>2014</year>
+<booktitle>POPL</booktitle>
+<ee type="oa">https://doi.org/10.1145/2535838.2535872</ee>
+<ee type="oa">https://doi.org/10.1145/2578855.2535872</ee>
+<crossref>conf/popl/2014</crossref>
+<url>db/conf/popl/popl2014.html#LagoSA14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/corr/LagoZ15" mdate="2026-10-01">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author pid="12/4177">Margherita Zorzi</author>
+<title>Wave-Style Token Machines and Quantum Lambda Calculi.</title>
+<booktitle>LINEARITY</booktitle>
+<year>2014</year>
+<pages>64-78</pages>
+<ee type="oa">https://doi.org/10.4204/EPTCS.176.6</ee>
+<ee type="oa">https://doi.org/10.48550/arXiv.1502.04774</ee>
+<crossref>journals/corr/AlvesC15</crossref>
+<url>db/series/eptcs/eptcs176.html#LagoZ15</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/fopara/2013" mdate="2019-05-14">
+<editor pid="44/3105">Ugo Dal Lago</editor>
+<editor pid="p/RicardoPenaMari">Ricardo Pe&#241;a</editor>
+<title>Foundational and Practical Aspects of Resource Analysis - Third International Workshop, FOPARA 2013, Bertinoro, Italy, August 29-31, 2013, Revised Selected Papers</title>
+<year>2014</year>
+<publisher>Springer</publisher>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>8552</volume>
+<ee>https://doi.org/10.1007/978-3-319-12466-7</ee>
+<isbn>978-3-319-12465-0</isbn>
+<booktitle>FOPARA</booktitle>
+<url>db/conf/fopara/fopara2013.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/CrubilleL14" mdate="2026-10-01">
+<author pid="140/7210">Rapha&#235;lle Crubill&#233;</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<title>On Probabilistic Applicative Bisimulation and Call-by-Value &#955;-Calculi (Long Version).</title>
+<year>2014</year>
+<volume>abs/1401.3766</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.1401.3766</ee>
+<url>db/journals/corr/corr1401.html#CrubilleL14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/AccattoliL14" mdate="2026-10-01">
+<author pid="90/7361">Beniamino Accattoli</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<title>Beta Reduction is Invariant, Indeed (Long Version).</title>
+<year>2014</year>
+<volume>abs/1405.3311</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.1405.3311</ee>
+<url>db/journals/corr/corr1405.html#AccattoliL14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/LagoFHY14" mdate="2026-10-01">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="91/4180">Claudia Faggian</author>
+<author pid="26/4542">Ichiro Hasuo</author>
+<author pid="143/2718">Akira Yoshimizu</author>
+<title>The Geometry of Synchronization (Long Version).</title>
+<year>2014</year>
+<volume>abs/1405.3427</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.1405.3427</ee>
+<url>db/journals/corr/corr1405.html#LagoFHY14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/LagoZ14" mdate="2026-10-01">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="117/8029">Sara Zuppiroli</author>
+<title>Probabilistic Recursion Theory and Implicit Computational Complexity (Long Version).</title>
+<year>2014</year>
+<volume>abs/1406.3378</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.1406.3378</ee>
+<url>db/journals/corr/corr1406.html#LagoZ14</url>
+</article>
+</r>
+<r><inproceedings key="conf/lpar/LagoP13" mdate="2020-03-27">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author pid="136/5847">Giulio Pellitta</author>
+<title>Complexity Analysis in Presence of Control Operators and Higher-Order Functions.</title>
+<pages>258-273</pages>
+<year>2013</year>
+<booktitle>LPAR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-45221-5_19</ee>
+<crossref>conf/lpar/2013</crossref>
+<url>db/conf/lpar/lpar2013.html#LagoP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/popl/LagoP13" mdate="2026-02-19">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author pid="43/7182">Barbara Petit</author>
+<title>The geometry of types.</title>
+<pages>167-178</pages>
+<year>2013</year>
+<booktitle>POPL</booktitle>
+<ee type="oa">https://doi.org/10.1145/2429069.2429090</ee>
+<ee type="oa">https://doi.org/10.1145/2480359.2429090</ee>
+<crossref>conf/popl/2013</crossref>
+<url>db/conf/popl/popl2013.html#LagoP13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/LagoZ13" mdate="2026-10-01">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="12/4177">Margherita Zorzi</author>
+<title>Wave-Style Token Machines and Quantum Lambda Calculi.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.1307.0550</ee>
+<volume>abs/1307.0550</volume>
+<url>db/journals/corr/corr1307.html#LagoZ13</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/LagoP13" mdate="2026-10-01">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="136/5847">Giulio Pellitta</author>
+<title>Complexity Analysis in Presence of Control Operators and Higher-Order Functions (Long Version).</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.1310.1763</ee>
+<volume>abs/1310.1763</volume>
+<url>db/journals/corr/corr1310.html#LagoP13</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/LagoSA13" mdate="2026-10-01">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="s/DavideSangiorgi">Davide Sangiorgi</author>
+<author pid="137/7850">Michele Alberti</author>
+<title>On Coinductive Equivalences for Higher-Order Probabilistic Functional Programs (Long Version).</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.1311.1722</ee>
+<volume>abs/1311.1722</volume>
+<url>db/journals/corr/corr1311.html#LagoSA13</url>
+</article>
+</r>
+<r><article key="journals/corr/abs-1208-0515" mdate="2026-10-01">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0002-9834-1940" pid="m/SMartini">Simone Martini 0001</author>
+<title>On Constructor Rewrite Systems and the Lambda Calculus</title>
+<ee type="oa">https://doi.org/10.2168/LMCS-8(3:12)2012</ee>
+<ee type="oa">https://doi.org/10.48550/arXiv.1208.0515</ee>
+<year>2012</year>
+<journal>Log. Methods Comput. Sci.</journal>
+<volume>8</volume>
+<number>3</number>
+<url>db/journals/lmcs/lmcs8.html#abs-1208-0515</url>
+</article>
+</r>
+<r><article key="journals/ita/LagoZ12" mdate="2020-06-04">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0002-3285-9827" pid="12/4177">Margherita Zorzi</author>
+<title>Probabilistic operational semantics for the lambda calculus.</title>
+<pages>413-450</pages>
+<year>2012</year>
+<volume>46</volume>
+<journal>RAIRO Theor. Informatics Appl.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1051/ita/2012012</ee>
+<url>db/journals/ita/ita46.html#LagoZ12</url>
+</article>
+</r>
+<r><article key="journals/mscs/BaillotLM12" mdate="2020-04-01">
+<author pid="57/6862">Patrick Baillot</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0002-6883-6993" pid="15/1070">Jean-Yves Moyen</author>
+<title>On quasi-interpretations, blind abstractions and implicit complexity.</title>
+<pages>549-580</pages>
+<year>2012</year>
+<volume>22</volume>
+<journal>Math. Struct. Comput. Sci.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1017/S0960129511000685</ee>
+<url>db/journals/mscs/mscs22.html#BaillotLM12</url>
+</article>
+</r>
+<r><inproceedings key="conf/csl/BaillotL12" mdate="2020-03-27">
+<author pid="57/6862">Patrick Baillot</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<title>Higher-Order Interpretations and Program Complexity.</title>
+<pages>62-76</pages>
+<year>2012</year>
+<booktitle>CSL</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.CSL.2012.62</ee>
+<crossref>conf/csl/2012</crossref>
+<url>db/conf/csl/csl2012.html#BaillotL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppdp/LagoP12" mdate="2020-03-27">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author pid="43/7182">Barbara Petit</author>
+<title>Linear dependent types in a call-by-value scenario.</title>
+<pages>115-126</pages>
+<year>2012</year>
+<booktitle>PPDP</booktitle>
+<ee>https://doi.org/10.1145/2370776.2370792</ee>
+<crossref>conf/ppdp/2012</crossref>
+<url>db/conf/ppdp/ppdp2012.html#LagoP12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rta/AccattoliL12" mdate="2020-03-27">
+<author pid="90/7361">Beniamino Accattoli</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<title>On the Invariance of the Unitary Cost Model for Head Reduction.</title>
+<pages>22-37</pages>
+<year>2012</year>
+<booktitle>RTA</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.RTA.2012.22</ee>
+<crossref>conf/rta/2012</crossref>
+<url>db/conf/rta/rta2012.html#AccattoliL12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1202-1641" mdate="2026-10-01">
+<author pid="90/7361">Beniamino Accattoli</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<title>On the Invariance of the Unitary Cost Model for Head Reduction (Long Version)</title>
+<ee type="oa">https://doi.org/10.48550/arXiv.1202.1641</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1202.1641</volume>
+<url>db/journals/corr/corr1202.html#abs-1202-1641</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1202-3317" mdate="2026-10-01">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="10/10967">Paolo Parisen Toldin</author>
+<title>An Higher-Order Characterization of Probabilistic Polynomial Time (Long Version)</title>
+<ee type="oa">https://doi.org/10.48550/arXiv.1202.3317</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1202.3317</volume>
+<url>db/journals/corr/corr1202.html#abs-1202-3317</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1207-5592" mdate="2026-10-01">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="43/7182">Barbara Petit</author>
+<title>Linear Dependent Types in a Call-by-Value Scenario (Long Version)</title>
+<ee type="oa">https://doi.org/10.48550/arXiv.1207.5592</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1207.5592</volume>
+<url>db/journals/corr/corr1207.html#abs-1207-5592</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1209-0663" mdate="2026-10-01">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="39/2349">Tobias Heindel</author>
+<author pid="33/4213">Damiano Mazza</author>
+<author pid="90/1979">Daniele Varacca</author>
+<title>Computational Complexity of Interactive Behaviors</title>
+<ee type="oa">https://doi.org/10.48550/arXiv.1209.0663</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1209.0663</volume>
+<url>db/journals/corr/corr1209.html#abs-1209-0663</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1210-6857" mdate="2026-10-01">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="43/7182">Barbara Petit</author>
+<title>The Geometry of Types (Long Version)</title>
+<ee type="oa">https://doi.org/10.48550/arXiv.1210.6857</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1210.6857</volume>
+<url>db/journals/corr/corr1210.html#abs-1210-6857</url>
+</article>
+</r>
+<r><article key="journals/corr/abs-1104-0193" mdate="2026-10-01">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0002-5235-7066" pid="84/3396">Marco Gaboardi</author>
+<title>Linear Dependent Types and Relative Completeness</title>
+<ee type="oa">https://doi.org/10.2168/LMCS-8(4:11)2012</ee>
+<ee type="oa">https://doi.org/10.48550/arXiv.1104.0193</ee>
+<year>2011</year>
+<journal>Log. Methods Comput. Sci.</journal>
+<volume>8</volume>
+<number>4</number>
+<url>db/journals/lmcs/lmcs8.html#abs-1104-0193</url>
+</article>
+</r>
+<r><article key="journals/iandc/BaillotCL11" mdate="2021-02-12">
+<author pid="57/6862">Patrick Baillot</author>
+<author pid="52/756-1">Paolo Coppola 0001</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<title>Light logics and optimal reduction: Completeness and complexity.</title>
+<pages>118-142</pages>
+<year>2011</year>
+<volume>209</volume>
+<journal>Inf. Comput.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1016/j.ic.2010.10.002</ee>
+<url>db/journals/iandc/iandc209.html#BaillotCL11</url>
+</article>
+</r>
+<r><article key="journals/tcs/LagoH11" mdate="2021-02-17">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author pid="h/MartinHofmann">Martin Hofmann 0001</author>
+<title>Realizability models and implicit complexity.</title>
+<pages>2029-2047</pages>
+<year>2011</year>
+<volume>412</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>20</number>
+<ee type="oa">https://doi.org/10.1016/j.tcs.2010.12.025</ee>
+<url>db/journals/tcs/tcs412.html#LagoH11</url>
+</article>
+</r>
+<r><inproceedings key="conf/esslli/Lago11" mdate="2020-03-27">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<title>A Short Introduction to Implicit Computational Complexity.</title>
+<pages>89-109</pages>
+<year>2011</year>
+<booktitle>ESSLLI</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-31485-8_3</ee>
+<crossref>conf/esslli/2011</crossref>
+<url>db/conf/esslli/esslli2011.html#Lago11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fopara/LagoT11" mdate="2020-03-27">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author pid="10/10967">Paolo Parisen Toldin</author>
+<title>A Higher-Order Characterization of Probabilistic Polynomial Time.</title>
+<pages>1-18</pages>
+<year>2011</year>
+<booktitle>FOPARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-32495-6_1</ee>
+<crossref>conf/fopara/2011</crossref>
+<url>db/conf/fopara/fopara2011.html#LagoT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lics/LagoG11" mdate="2024-10-06">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0002-5235-7066" pid="84/3396">Marco Gaboardi</author>
+<title>Linear Dependent Types and Relative Completeness.</title>
+<pages>133-142</pages>
+<year>2011</year>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1109/LICS.2011.22</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/LICS.2011.22</ee>
+<crossref>conf/lics/2011</crossref>
+<url>db/conf/lics/lics2011.html#LagoG11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/corr/abs-1210-0613" mdate="2026-10-01">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="91/4180">Claudia Faggian</author>
+<title>On Multiplicative Linear Logic, Modality and Quantum Circuits</title>
+<booktitle>QPL</booktitle>
+<year>2011</year>
+<pages>55-66</pages>
+<ee type="oa">https://doi.org/10.4204/EPTCS.95.6</ee>
+<ee type="oa">https://doi.org/10.48550/arXiv.1210.0613</ee>
+<crossref>journals/corr/abs-1210-0298</crossref>
+<url>db/series/eptcs/eptcs95.html#abs-1210-0613</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/corr/abs-1108-4467" mdate="2026-10-01">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author pid="00/2035">Paolo Di Giamberardino</author>
+<title>Soft Session Types</title>
+<booktitle>EXPRESS</booktitle>
+<year>2011</year>
+<pages>59-73</pages>
+<ee type="oa">https://doi.org/10.4204/EPTCS.64.5</ee>
+<ee type="oa">https://doi.org/10.48550/arXiv.1108.4467</ee>
+<crossref>journals/corr/abs-1108-4077</crossref>
+<url>db/series/eptcs/eptcs64.html#abs-1108-4467</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1104-0195" mdate="2026-10-01">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="12/4177">Margherita Zorzi</author>
+<title>Probabilistic Operational Semantics for the Lambda Calculus</title>
+<ee type="oa">https://doi.org/10.48550/arXiv.1104.0195</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1104.0195</volume>
+<url>db/journals/corr/corr1104.html#abs-1104-0195</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1107-4478" mdate="2026-10-01">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="00/2035">Paolo Di Giamberardino</author>
+<title>Soft Session Types (Long Version)</title>
+<ee type="oa">https://doi.org/10.48550/arXiv.1107.4478</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1107.4478</volume>
+<url>db/journals/corr/corr1107.html#abs-1107-4478</url>
+</article>
+</r>
+<r><article key="journals/corr/abs-0904-2675" mdate="2026-10-01">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="h/MartinHofmann">Martin Hofmann 0001</author>
+<title>Bounded Linear Logic, Revisited</title>
+<ee type="oa">https://doi.org/10.2168/LMCS-6(4:7)2010</ee>
+<ee type="oa">https://doi.org/10.48550/arXiv.0904.2675</ee>
+<year>2010</year>
+<journal>Log. Methods Comput. Sci.</journal>
+<volume>6</volume>
+<url>db/journals/lmcs/lmcs6.html#abs-0904-2675</url>
+<number>4</number>
+</article>
+</r>
+<r><article key="journals/mst/LagoH10" mdate="2020-03-27">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author pid="h/MartinHofmann">Martin Hofmann 0001</author>
+<title>A Semantic Proof of Polytime Soundness of Light Affine Logic.</title>
+<pages>673-689</pages>
+<year>2010</year>
+<volume>46</volume>
+<journal>Theory Comput. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s00224-009-9210-x</ee>
+<url>db/journals/mst/mst46.html#LagoH10</url>
+</article>
+</r>
+<r><article key="journals/tcs/LagoMZ10" mdate="2021-02-17">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author pid="51/1554">Andrea Masini</author>
+<author orcid="0000-0002-3285-9827" pid="12/4177">Margherita Zorzi</author>
+<title>Quantum implicit computational complexity.</title>
+<pages>377-409</pages>
+<year>2010</year>
+<volume>411</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1016/j.tcs.2009.07.045</ee>
+<url>db/journals/tcs/tcs411.html#LagoMZ10</url>
+</article>
+</r>
+<r><inproceedings key="conf/aplas/LagoS10" mdate="2022-04-09">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0002-5445-9461" pid="27/2596">Ulrich Sch&#246;pp</author>
+<title>Type Inference for Sublinear Space Functional Programming.</title>
+<pages>376-391</pages>
+<year>2010</year>
+<booktitle>APLAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-17164-2_26</ee>
+<crossref>conf/aplas/2010</crossref>
+<url>db/conf/aplas/aplas2010.html#LagoS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esop/LagoS10" mdate="2018-06-26">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="27/2596">Ulrich Sch&#246;pp</author>
+<title>Functional Programming in Sublinear Space.</title>
+<pages>205-225</pages>
+<year>2010</year>
+<booktitle>ESOP</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-11957-6_12</ee>
+<crossref>conf/esop/2010</crossref>
+<url>db/conf/esop/esop2010.html#LagoS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/corr/abs-1011-6431" mdate="2026-10-01">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author pid="m/SMartini">Simone Martini 0001</author>
+<author pid="s/DavideSangiorgi">Davide Sangiorgi</author>
+<title>Light Logics and Higher-Order Processes</title>
+<booktitle>EXPRESS</booktitle>
+<year>2010</year>
+<pages>46-60</pages>
+<ee type="oa">https://doi.org/10.4204/EPTCS.41.4</ee>
+<ee type="oa">https://doi.org/10.48550/arXiv.1011.6431</ee>
+<crossref>journals/corr/abs-1011-6012</crossref>
+<url>db/series/eptcs/eptcs41.html#abs-1011-6431</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/corr/abs-1005-0521" mdate="2026-10-01">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author pid="m/SMartini">Simone Martini 0001</author>
+<author pid="12/4177">Margherita Zorzi</author>
+<title>General Ramified Recurrence is Sound for Polynomial Time</title>
+<booktitle>DICE</booktitle>
+<year>2010</year>
+<pages>47-62</pages>
+<ee type="oa">https://doi.org/10.4204/EPTCS.23.4</ee>
+<ee type="oa">https://doi.org/10.48550/arXiv.1005.0521</ee>
+<crossref>journals/corr/abs-1005-0653</crossref>
+<url>db/series/eptcs/eptcs23.html#abs-1005-0521</url>
+</inproceedings>
+</r>
+<r><article key="journals/mscs/LagoMZ09" mdate="2020-04-01">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author pid="51/1554">Andrea Masini</author>
+<author orcid="0000-0002-3285-9827" pid="12/4177">Margherita Zorzi</author>
+<title>On a measurement-free quantum lambda calculus with classical control.</title>
+<pages>297-335</pages>
+<year>2009</year>
+<volume>19</volume>
+<journal>Math. Struct. Comput. Sci.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1017/S096012950800741X</ee>
+<url>db/journals/mscs/mscs19.html#LagoMZ09</url>
+</article>
+</r>
+<r><article key="journals/tocl/Lago09" mdate="2020-03-27">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<title>The geometry of linear higher-order recursion.</title>
+<year>2009</year>
+<volume>10</volume>
+<journal>ACM Trans. Comput. Log.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/1462179.1462180</ee>
+<url>db/journals/tocl/tocl10.html#Lago09</url>
+<pages>8:1-8:38</pages>
+</article>
+</r>
+<r><article key="journals/tocl/Lago09a" mdate="2025-01-19">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<title>Context semantics, linear logic, and computational complexity.</title>
+<year>2009</year>
+<volume>10</volume>
+<journal>ACM Trans. Comput. Log.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1555746.1555749</ee>
+<ee>https://www.wikidata.org/entity/Q130874238</ee>
+<url>db/journals/tocl/tocl10.html#Lago09a</url>
+<pages>25:1-25:32</pages>
+</article>
+</r>
+<r><inproceedings key="conf/fopara/LagoM09" mdate="2020-03-27">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0002-9834-1940" pid="m/SMartini">Simone Martini 0001</author>
+<title>Derivational Complexity Is an Invariant Cost Model.</title>
+<pages>100-113</pages>
+<year>2009</year>
+<booktitle>FOPARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15331-0_7</ee>
+<crossref>conf/fopara/2009</crossref>
+<url>db/conf/fopara/fopara2009.html#LagoM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalp/LagoM09" mdate="2020-03-27">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0002-9834-1940" pid="m/SMartini">Simone Martini 0001</author>
+<title>On Constructor Rewrite Systems and the Lambda-Calculus.</title>
+<pages>163-174</pages>
+<year>2009</year>
+<booktitle>ICALP (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-02930-1_14</ee>
+<crossref>conf/icalp/2009-2</crossref>
+<url>db/conf/icalp/icalp2009-2.html#LagoM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lfcs/LagoRV09" mdate="2020-03-27">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0002-1871-6109" pid="10/5302">Luca Roversi</author>
+<author pid="61/1131">Luca Vercelli</author>
+<title>Taming Modal Impredicativity: Superlazy Reduction.</title>
+<pages>137-151</pages>
+<year>2009</year>
+<booktitle>LFCS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-92687-0_10</ee>
+<crossref>conf/lfcs/2009</crossref>
+<url>db/conf/lfcs/lfcs2009.html#LagoRV09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tlca/LagoH09" mdate="2020-03-27">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author pid="h/MartinHofmann">Martin Hofmann 0001</author>
+<title>Bounded Linear Logic, Revisited.</title>
+<pages>80-94</pages>
+<year>2009</year>
+<booktitle>TLCA</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-02273-9_8</ee>
+<crossref>conf/tlca/2009</crossref>
+<url>db/conf/tlca/tlca2009.html#LagoH09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/entcs/LagoMZ11" mdate="2023-03-10">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author pid="51/1554">Andrea Masini</author>
+<author orcid="0000-0002-3285-9827" pid="12/4177">Margherita Zorzi</author>
+<title>Confluence Results for a Quantum Lambda Calculus with Measurements.</title>
+<pages>251-261</pages>
+<year>2009</year>
+<crossref>conf/qpl/2009</crossref>
+<booktitle>QPL@MFPS</booktitle>
+<ee type="oa">https://doi.org/10.1016/j.entcs.2011.01.035</ee>
+<ee>https://www.wikidata.org/entity/Q113318302</ee>
+<url>db/conf/qpl/qpl2009.html#LagoMZ11</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0904-4120" mdate="2026-10-01">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="m/SMartini">Simone Martini 0001</author>
+<title>On Constructor Rewrite Systems and the Lambda-Calculus</title>
+<ee type="oa">https://doi.org/10.48550/arXiv.0904.4120</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0904.4120</volume>
+<url>db/journals/corr/corr0904.html#abs-0904-4120</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0905-4567" mdate="2026-10-01">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="51/1554">Andrea Masini</author>
+<author pid="12/4177">Margherita Zorzi</author>
+<title>Confluence Results for a Quantum Lambda Calculus with Measurements</title>
+<ee type="oa">https://doi.org/10.48550/arXiv.0905.4567</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0905.4567</volume>
+<url>db/journals/corr/corr0905.html#abs-0905-4567</url>
+</article>
+</r>
+<r><article key="journals/lmcs/CoppolaLR08" mdate="2020-06-25">
+<author pid="52/756-1">Paolo Coppola 0001</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author pid="r/SRonchiDR">Simona Ronchi Della Rocca</author>
+<title>Light Logics and the Call-by-Value Lambda Calculus.</title>
+<year>2008</year>
+<volume>4</volume>
+<journal>Log. Methods Comput. Sci.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.2168/LMCS-4(4:5)2008</ee>
+<url>db/journals/lmcs/lmcs4.html#CoppolaLR08</url>
+</article>
+</r>
+<r><article key="journals/tcs/LagoM08" mdate="2021-02-17">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0002-9834-1940" pid="m/SMartini">Simone Martini 0001</author>
+<title>The weak lambda calculus as a reasonable machine.</title>
+<pages>32-50</pages>
+<year>2008</year>
+<volume>398</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-3</number>
+<ee type="oa">https://doi.org/10.1016/j.tcs.2008.01.044</ee>
+<url>db/journals/tcs/tcs398.html#LagoM08</url>
+</article>
+</r>
+<r><inproceedings key="conf/csl/LagoL08" mdate="2023-11-06">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="05/5071">Olivier Laurent 0001</author>
+<title>Quantitative Game Semantics for Linear Logic.</title>
+<pages>230-245</pages>
+<year>2008</year>
+<booktitle>CSL</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-87531-4_18</ee>
+<crossref>conf/csl/2008</crossref>
+<url>db/conf/csl/csl2008.html#LagoL08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csr/LagoH08" mdate="2020-03-27">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author pid="h/MartinHofmann">Martin Hofmann 0001</author>
+<title>A Semantic Proof of Polytime Soundness of Light Affine Logic.</title>
+<pages>134-145</pages>
+<year>2008</year>
+<booktitle>CSR</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-79709-8_16</ee>
+<crossref>conf/csr/2008</crossref>
+<url>db/conf/csr/csr2008.html#LagoH08</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0809-0195" mdate="2026-10-01">
+<author pid="52/756-1">Paolo Coppola 0001</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="r/SRonchiDR">Simona Ronchi Della Rocca</author>
+<title>Light Logics and the Call-by-Value Lambda Calculus</title>
+<ee type="oa">https://doi.org/10.48550/arXiv.0809.0195</ee>
+<year>2008</year>
+<journal>CoRR</journal>
+<volume>abs/0809.0195</volume>
+<url>db/journals/corr/corr0809.html#abs-0809-0195</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0810-2891" mdate="2026-10-01">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="10/5302">Luca Roversi</author>
+<author pid="61/1131">Luca Vercelli</author>
+<title>Taming Modal Impredicativity: Superlazy Reduction</title>
+<ee type="oa">https://doi.org/10.48550/arXiv.0810.2891</ee>
+<year>2008</year>
+<journal>CoRR</journal>
+<volume>abs/0810.2891</volume>
+<url>db/journals/corr/corr0810.html#abs-0810-2891</url>
+</article>
+</r>
+<r><article key="journals/tcs/LagoMP07" mdate="2021-02-17">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author pid="68/27">Angelo Montanari</author>
+<author orcid="0000-0001-9831-3264" pid="37/3823">Gabriele Puppis</author>
+<title>Compact and tractable automaton-based representations of time granularities.</title>
+<pages>115-141</pages>
+<year>2007</year>
+<volume>373</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-2</number>
+<ee type="oa">https://doi.org/10.1016/j.tcs.2006.12.014</ee>
+<url>db/journals/tcs/tcs373.html#LagoMP07</url>
+</article>
+</r>
+<r><inproceedings key="conf/lics/BaillotCL07" mdate="2023-03-24">
+<author pid="57/6862">Patrick Baillot</author>
+<author pid="52/756-1">Paolo Coppola 0001</author>
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<title>Light Logics and Optimal Reduction: Completeness and Complexity.</title>
+<pages>421-430</pages>
+<year>2007</year>
+<crossref>conf/lics/2007</crossref>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1109/LICS.2007.27</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/LICS.2007.27</ee>
+<url>db/conf/lics/lics2007.html#BaillotCL07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/time/LagoMP07" mdate="2023-03-24">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author pid="68/27">Angelo Montanari</author>
+<author orcid="0000-0001-9831-3264" pid="37/3823">Gabriele Puppis</author>
+<title>On the Equivalence of Automaton-Based Representations of Time Granularities.</title>
+<pages>82-93</pages>
+<year>2007</year>
+<crossref>conf/time/2007</crossref>
+<booktitle>TIME</booktitle>
+<ee>https://doi.org/10.1109/TIME.2007.56</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/TIME.2007.56</ee>
+<url>db/conf/time/time2007.html#LagoMP07</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0704-2448" mdate="2026-10-01">
+<author pid="57/6862">Patrick Baillot</author>
+<author pid="52/756-1">Paolo Coppola 0001</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<title>Light Logics and Optimal Reduction: Completeness and Complexity</title>
+<ee type="oa">https://doi.org/10.48550/arXiv.0704.2448</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/0704.2448</volume>
+<url>db/journals/corr/corr0704.html#abs-0704-2448</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0703152" mdate="2026-10-01">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="51/1554">Andrea Masini</author>
+<author pid="12/4177">Margherita Zorzi</author>
+<title>Quantum Lambda Calculi with Classical Control: Syntax and Expressive Power</title>
+<ee type="oa">https://doi.org/10.48550/arXiv.cs/0703152</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0703152</volume>
+<url>db/journals/corr/corr0703.html#abs-cs-0703152</url>
+</article>
+</r>
+<r><article key="journals/mscs/LagoB06" mdate="2020-04-01">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author pid="57/6862">Patrick Baillot</author>
+<title>On light logics, uniform encodings and polynomial time.</title>
+<pages>713-733</pages>
+<year>2006</year>
+<volume>16</volume>
+<journal>Math. Struct. Comput. Sci.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1017/S0960129506005421</ee>
+<url>db/journals/mscs/mscs16.html#LagoB06</url>
+</article>
+</r>
+<r><inproceedings key="conf/cie/LagoM06" mdate="2020-03-27">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0002-9834-1940" pid="m/SMartini">Simone Martini 0001</author>
+<title>An Invariant Cost Model for the Lambda Calculus.</title>
+<pages>105-114</pages>
+<year>2006</year>
+<crossref>conf/cie/2006</crossref>
+<booktitle>CiE</booktitle>
+<ee>https://doi.org/10.1007/11780342_11</ee>
+<url>db/conf/cie/cie2006.html#LagoM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lics/Lago06" mdate="2023-03-24">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<title>Context Semantics, Linear Logic and Computational Complexity.</title>
+<pages>169-178</pages>
+<year>2006</year>
+<crossref>conf/lics/2006</crossref>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1109/LICS.2006.21</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/LICS.2006.21</ee>
+<url>db/conf/lics/lics2006.html#Lago06</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0608030" mdate="2026-10-01">
+<author pid="57/6862">Patrick Baillot</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="15/1070">Jean-Yves Moyen</author>
+<title>On Quasi-Interpretations, Blind Abstractions and Implicit Complexity</title>
+<ee type="oa">https://doi.org/10.48550/arXiv.cs/0608030</ee>
+<year>2006</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0608030</volume>
+<url>db/journals/corr/corr0608.html#abs-cs-0608030</url>
+</article>
+</r>
+<r><phdthesis key="phd/it/DalLago05m" mdate="2023-03-29">
+<author pid="44/3105">Ugo Dal Lago</author>
+<title>Semantic frameworks for implicit computational complexity.</title>
+<school>University of Bologna, Italy</school>
+<year>2005</year>
+<ee>https://opac.bncf.firenze.sbn.it/bncf-prod/resource?uri=BNI0021484</ee>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/fsttcs/LagoH05" mdate="2017-05-24">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="h/MartinHofmann">Martin Hofmann 0001</author>
+<title>Quantitative Models and Implicit Complexity.</title>
+<pages>189-200</pages>
+<year>2005</year>
+<crossref>conf/fsttcs/2005</crossref>
+<booktitle>FSTTCS</booktitle>
+<ee>https://doi.org/10.1007/11590156_15</ee>
+<url>db/conf/fsttcs/fsttcs2005.html#LagoH05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lics/Lago05" mdate="2023-03-24">
+<author pid="44/3105">Ugo Dal Lago</author>
+<title>The Geometry of Linear Higher-Order Recursion.</title>
+<pages>366-375</pages>
+<year>2005</year>
+<crossref>conf/lics/2005</crossref>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1109/LICS.2005.52</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/LICS.2005.52</ee>
+<url>db/conf/lics/lics2005.html#Lago05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tlca/CoppolaLR05" mdate="2020-05-14">
+<author pid="52/756-1">Paolo Coppola 0001</author>
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="r/SRonchiDR">Simona Ronchi Della Rocca</author>
+<title>Elementary Affine Logic and the Call-by-Value Lambda Calculus.</title>
+<pages>131-145</pages>
+<ee>https://doi.org/10.1007/11417170_11</ee>
+<year>2005</year>
+<crossref>conf/tlca/2005</crossref>
+<booktitle>TLCA</booktitle>
+<url>db/conf/tlca/tlca2005.html#CoppolaLR05</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0506079" mdate="2026-10-01">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="h/MartinHofmann">Martin Hofmann 0001</author>
+<title>Quantitative Models and Implicit Complexity</title>
+<ee type="oa">https://doi.org/10.48550/arXiv.cs/0506079</ee>
+<year>2005</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0506079</volume>
+<url>db/journals/corr/corr0506.html#abs-cs-0506079</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0506080" mdate="2026-10-01">
+<author pid="44/3105">Ugo Dal Lago</author>
+<title>The Geometry of Linear Higher-Order Recursion</title>
+<ee type="oa">https://doi.org/10.48550/arXiv.cs/0506080</ee>
+<year>2005</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0506080</volume>
+<url>db/journals/corr/corr0506.html#abs-cs-0506080</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0510092" mdate="2026-10-01">
+<author pid="44/3105">Ugo Dal Lago</author>
+<title>Context Semantics, Linear Logic and Computational Complexity</title>
+<ee type="oa">https://doi.org/10.48550/arXiv.cs/0510092</ee>
+<year>2005</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0510092</volume>
+<url>db/journals/corr/corr0510.html#abs-cs-0510092</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0511045" mdate="2026-10-01">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="m/SMartini">Simone Martini 0001</author>
+<title>An Invariant Cost Model for the Lambda Calculus</title>
+<ee type="oa">https://doi.org/10.48550/arXiv.cs/0511045</ee>
+<year>2005</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0511045</volume>
+<url>db/journals/corr/corr0511.html#abs-cs-0511045</url>
+</article>
+</r>
+<r><article key="journals/tcs/LagoM04" mdate="2021-02-17">
+<author orcid="0000-0001-9200-070X" pid="44/3105">Ugo Dal Lago</author>
+<author orcid="0000-0002-9834-1940" pid="m/SMartini">Simone Martini 0001</author>
+<title>Phase semantics and decidability of elementary affine logic.</title>
+<pages>409-433</pages>
+<year>2004</year>
+<volume>318</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1016/j.tcs.2004.02.037</ee>
+<url>db/journals/tcs/tcs318.html#LagoM04</url>
+</article>
+</r>
+<r><inproceedings key="conf/ictcs/LagoMP03" mdate="2017-05-21">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="68/27">Angelo Montanari</author>
+<author pid="37/3823">Gabriele Puppis</author>
+<title>Towards Compact and Tractable Automaten-Based Representations of Time Granularities.</title>
+<pages>72-85</pages>
+<ee>https://doi.org/10.1007/978-3-540-45208-9_7</ee>
+<year>2003</year>
+<crossref>conf/ictcs/2003</crossref>
+<booktitle>ICTCS</booktitle>
+<url>db/conf/ictcs/ictcs2003.html#LagoMP03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictcs/Lago03" mdate="2017-05-21">
+<author pid="44/3105">Ugo Dal Lago</author>
+<title>On the Expressive Power of Light Affine Logic.</title>
+<pages>216-227</pages>
+<ee>https://doi.org/10.1007/978-3-540-45208-9_18</ee>
+<year>2003</year>
+<crossref>conf/ictcs/2003</crossref>
+<booktitle>ICTCS</booktitle>
+<url>db/conf/ictcs/ictcs2003.html#Lago03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/types/LagoMR03" mdate="2017-06-05">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="m/SMartini">Simone Martini 0001</author>
+<author orcid="0000-0002-1871-6109" pid="10/5302">Luca Roversi</author>
+<title>Higher-Order Linear Ramified Recurrence.</title>
+<pages>178-193</pages>
+<ee>https://doi.org/10.1007/978-3-540-24849-1_12</ee>
+<year>2003</year>
+<crossref>conf/types/2003</crossref>
+<booktitle>TYPES</booktitle>
+<url>db/conf/types/types2003.html#LagoMR03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/LagoPT02" mdate="2023-09-05">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="01/649">Marco Pistore</author>
+<author pid="07/4999">Paolo Traverso</author>
+<title>Planning with a Language for Extended Goals.</title>
+<pages>447-454</pages>
+<year>2002</year>
+<crossref>conf/aaai/2002</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai2002.html#LagoPT02</url>
+<ee type="archive">http://www.aaai.org/Library/AAAI/2002/aaai02-068.php</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssd/LagoM01" mdate="2017-05-24">
+<author pid="44/3105">Ugo Dal Lago</author>
+<author pid="68/27">Angelo Montanari</author>
+<title>Calendars, Time Granularities, and Automata.</title>
+<pages>279-298</pages>
+<year>2001</year>
+<crossref>conf/ssd/2001</crossref>
+<booktitle>SSTD</booktitle>
+<ee>https://doi.org/10.1007/3-540-47724-1_15</ee>
+<url>db/conf/ssd/sstd2001.html#LagoM01</url>
+</inproceedings>
+</r>
+<coauthors n="98" nc="3">
+<co c="0"><na f="a/Accattoli:Beniamino" pid="90/7361">Beniamino Accattoli</na></co>
+<co c="0"><na f="a/Alberti:Michele" pid="137/7850">Michele Alberti</na></co>
+<co c="0"><na f="a/Antonelli:Melissa" pid="289/0021">Melissa Antonelli</na></co>
+<co c="0"><na f="a/Avanzini:Martin" pid="63/5617">Martin Avanzini</na></co>
+<co c="-1"><na f="b/Baier:Christel" pid="b/ChristelBaier">Christel Baier</na></co>
+<co c="0"><na f="b/Baillot:Patrick" pid="57/6862">Patrick Baillot</na></co>
+<co c="0"><na f="b/Barak:Boaz" pid="b/BBarak">Boaz Barak</na></co>
+<co c="0"><na f="b/Barthe:Gilles" pid="b/GBarthe">Gilles Barthe</na></co>
+<co c="0"><na f="b/Bonfante:Guillaume" pid="98/2498">Guillaume Bonfante</na></co>
+<co c="0"><na f="b/Borgstr=ouml=m:Johannes" pid="38/2005">Johannes Borgstr&#246;m</na></co>
+<co c="0"><na f="b/Breuvart:Flavien" pid="13/11469">Flavien Breuvart</na></co>
+<co c="-1"><na f="c/Cappai:Alberto" pid="164/5753">Alberto Cappai</na></co>
+<co c="0"><na f="c/Catozi:Stefano" pid="439/5170">Stefano Catozi</na></co>
+<co c="-1"><na f="c/Cerda:R=eacute=my" pid="333/1354">R&#233;my Cerda</na></co>
+<co c="0"><na f="c/Chardonnet:Kostia" pid="270/6032">Kostia Chardonnet</na></co>
+<co c="0"><na f="c/Choudhury:Vikraman" pid="205/2352">Vikraman Choudhury</na></co>
+<co c="0"><na f="c/Colledan:Andrea" pid="292/3895">Andrea Colledan</na></co>
+<co c="0"><na f="c/Coppola_0001:Paolo" pid="52/756-1">Paolo Coppola 0001</na></co>
+<co c="0"><na f="c/Crubill=eacute=:Rapha=euml=lle" pid="140/7210">Rapha&#235;lle Crubill&#233;</na></co>
+<co c="0"><na f="d/Davoli_0001:Davide" pid="338/8910">Davide Davoli 0001</na></co>
+<co c="0"><na f="d/Deng_0001:Yuxin" pid="25/1197-1">Yuxin Deng 0001</na></co>
+<co c="0"><na f="e/Eekelen:Marko_C=_J=_D=_van" pid="83/2290">Marko C. J. D. van Eekelen</na></co>
+<co c="0"><na f="e/Esparza:Javier" pid="e/JEsparza">Javier Esparza</na></co>
+<co c="0"><na f="f/Faggian:Claudia" pid="91/4180">Claudia Faggian</na></co>
+<co c="0"><na f="f/Feng_0001:Yuan" pid="14/6701-1">Yuan Feng 0001</na></co>
+<co c="0"><na f="f/Fiorillo:Guido" pid="436/0458">Guido Fiorillo</na></co>
+<co c="0"><na f="g/Gabbrielli:Maurizio" pid="g/MGabbrielli">Maurizio Gabbrielli</na></co>
+<co c="0"><na f="g/Gaboardi:Marco" pid="84/3396">Marco Gaboardi</na></co>
+<co c="0"><na f="g/Galal:Zeinab" pid="268/3690">Zeinab Galal</na></co>
+<co c="0"><na f="g/Gavazzo:Francesco" pid="199/1997">Francesco Gavazzo</na></co>
+<co c="0"><na f="g/Ghyselen:Alexis" pid="225/5709">Alexis Ghyselen</na></co>
+<co c="0"><na f="g/Giamberardino:Paolo_Di" pid="00/2035">Paolo Di Giamberardino</na></co>
+<co c="0"><na f="g/Giusti:Giulia" pid="324/2011">Giulia Giusti</na></co>
+<co c="0"><na f="g/Gordon_0001:Andrew_D=" pid="g/AndrewDGordon">Andrew D. Gordon 0001</na></co>
+<co c="0"><na f="g/Gorla:Daniele" pid="g/DanieleGorla">Daniele Gorla</na></co>
+<co c="0"><na f="g/Grellois:Charles" pid="154/6684">Charles Grellois</na></co>
+<co c="0"><na f="g/Guerrieri:Giulio" pid="143/2693">Giulio Guerrieri</na></co>
+<co c="1" n="2"><na f="h/Harmer:Russell" pid="36/1754">Russell Harmer</na><na>Russ Harmer</na></co>
+<co c="0"><na f="h/Hasuo:Ichiro" pid="26/4542">Ichiro Hasuo</na></co>
+<co c="0"><na f="h/Heijltjes:Willem" pid="96/8629">Willem Heijltjes</na></co>
+<co c="0"><na f="h/Heindel:Tobias" pid="39/2349">Tobias Heindel</na></co>
+<co c="0"><na f="h/Herrou:Agathe" pid="194/3097">Agathe Herrou</na></co>
+<co c="0"><na f="h/Hofmann_0001:Martin" pid="h/MartinHofmann">Martin Hofmann 0001</na></co>
+<co c="0"><na f="h/Honsell:Furio" pid="19/6791">Furio Honsell</na></co>
+<co c="0"><na f="h/Hoshino:Naohiko" pid="61/5628">Naohiko Hoshino</na></co>
+<co c="0"><na f="k/Kahle:Reinhard" pid="42/6631">Reinhard Kahle</na></co>
+<co c="0"><na f="k/Kapron:Bruce_M=" pid="k/BruceMKapron">Bruce M. Kapron</na></co>
+<co c="0"><na f="k/Kobayashi_0001:Naoki" pid="k/NaokiKobayashi">Naoki Kobayashi 0001</na></co>
+<co c="0"><na f="k/Kop:Cynthia" pid="01/3861">Cynthia Kop</na></co>
+<co c="0"><na f="l/Lanese:Ivan" pid="56/3713">Ivan Lanese</na></co>
+<co c="1"><na f="l/Laurent_0001:Olivier" pid="05/5071">Olivier Laurent 0001</na></co>
+<co c="0"><na f="l/Lenisa:Marina" pid="25/4329">Marina Lenisa</na></co>
+<co c="-1"><na f="l/Leventis:Thomas" pid="222/1203">Thomas Leventis</na></co>
+<co c="0"><na f="l/Levy:Paul_Blain" pid="l/PaulBlainLevy">Paul Blain Levy</na></co>
+<co c="0"><na f="m/Malavolta:Giulio" pid="148/1304">Giulio Malavolta</na></co>
+<co c="0"><na f="m/Martini_0001:Simone" pid="m/SMartini">Simone Martini 0001</na></co>
+<co c="0"><na f="m/Masini:Andrea" pid="51/1554">Andrea Masini</na></co>
+<co c="0"><na f="m/Mazza:Damiano" pid="33/4213">Damiano Mazza</na></co>
+<co c="2"><na f="m/Montanari:Angelo" pid="68/27">Angelo Montanari</na></co>
+<co c="0"><na f="m/Moser:Georg" pid="32/2607">Georg Moser</na></co>
+<co c="0"><na f="m/Moyen:Jean=Yves" pid="15/1070">Jean-Yves Moyen</na></co>
+<co c="-1"><na f="m/Murgia_0001:Maurizio" pid="154/0136-1">Maurizio Murgia 0001</na></co>
+<co c="0"><na f="o/Oitavem:Isabel" pid="37/2127">Isabel Oitavem</na></co>
+<co c="0"><na f="o/Olimpieri:Federico" pid="256/1076">Federico Olimpieri</na></co>
+<co c="0"><na f="p/Padovani:Luca" pid="22/6590">Luca Padovani</na></co>
+<co c="-1"><na f="p/Paiva:Valeria_de" pid="p/ValeriadePaiva">Valeria de Paiva</na></co>
+<co c="-1"><na f="p/Pellitta:Giulio" pid="136/5847">Giulio Pellitta</na></co>
+<co c="0" n="2"><na f="p/Pe=ntilde=a=Mar=iacute=:Ricardo" pid="p/RicardoPenaMari">Ricardo Pe&#241;a-Mar&#237;</na><na>Ricardo Pe&#241;a</na></co>
+<co c="-1"><na f="p/Petit:Barbara" pid="43/7182">Barbara Petit</na></co>
+<co c="0"><na f="p/Pistone:Paolo" pid="147/5177">Paolo Pistone</na></co>
+<co c="0"><na f="p/Pistore:Marco" pid="01/649">Marco Pistore</na></co>
+<co c="2"><na f="p/Puppis:Gabriele" pid="37/3823">Gabriele Puppis</na></co>
+<co c="0"><na f="r/Rakotonirina:Itsaka" pid="223/5215">Itsaka Rakotonirina</na></co>
+<co c="-1"><na f="r/Rioli:Alessandro" pid="164/5899">Alessandro Rioli</na></co>
+<co c="0"><na f="r/Rocca:Simona_Ronchi_Della" pid="r/SRonchiDR">Simona Ronchi Della Rocca</na></co>
+<co c="0"><na f="r/Roversi:Luca" pid="10/5302">Luca Roversi</na></co>
+<co c="0"><na f="s/Sakayori:Ken" pid="198/3862">Ken Sakayori</na></co>
+<co c="0"><na f="s/Sangiorgi:Davide" pid="s/DavideSangiorgi">Davide Sangiorgi</na></co>
+<co c="0"><na f="s/Sch=ouml=pp:Ulrich" pid="27/2596">Ulrich Sch&#246;pp</na></co>
+<co c="0"><na f="s/Sekiyama:Taro" pid="155/8127">Taro Sekiyama</na></co>
+<co c="0"><na f="s/Sobocinski_0001:Pawel" pid="46/609">Pawel Sobocinski 0001</na></co>
+<co c="0"><na f="s/Szymczak_0002:Marcin" pid="143/2921-2">Marcin Szymczak 0002</na></co>
+<co c="0"><na f="t/Tanaka:Ryo" pid="138/8420">Ryo Tanaka</na></co>
+<co c="0"><na f="t/Toldin:Paolo_Parisen" pid="10/10967">Paolo Parisen Toldin</na></co>
+<co c="0"><na f="t/Traverso:Paolo" pid="07/4999">Paolo Traverso</na></co>
+<co c="0"><na f="u/Unno_0001:Hiroshi" pid="24/6058">Hiroshi Unno 0001</na></co>
+<co c="0"><na f="v/Vale:Deivid" pid="271/9946">Deivid Vale</na></co>
+<co c="0"><na f="v/Valiron:Beno=icirc=t" pid="48/1480">Beno&#238;t Valiron</na></co>
+<co c="0"><na f="v/Vanoni:Gabriele" pid="220/3433">Gabriele Vanoni</na></co>
+<co c="0"><na f="v/Varacca:Daniele" pid="90/1979">Daniele Varacca</na></co>
+<co c="0"><na f="v/Vazou:Niki" pid="05/10429">Niki Vazou</na></co>
+<co c="0"><na f="v/Vercelli:Luca" pid="61/1131">Luca Vercelli</na></co>
+<co c="0"><na f="v/Vignudelli:Valeria" pid="150/6785">Valeria Vignudelli</na></co>
+<co c="0"><na f="v/Visme:Marc_de" pid="183/6366">Marc de Visme</na></co>
+<co c="0"><na f="y/Yamada_0002:Akihisa" pid="36/2450-2">Akihisa Yamada 0002</na></co>
+<co c="0"><na f="y/Yoshimizu:Akira" pid="143/2718">Akira Yoshimizu</na></co>
+<co c="0"><na f="z/Zorzi:Margherita" pid="12/4177">Margherita Zorzi</na></co>
+<co c="0"><na f="z/Zuppiroli:Sara" pid="117/8029">Sara Zuppiroli</na></co>
+</coauthors>
+</dblpperson>
+
