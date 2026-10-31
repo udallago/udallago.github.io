@@ -1,50 +1,60 @@
 
 import json
 import urllib.request
-import xml.etree.ElementTree as ET
 from pathlib import Path
 
-URL = "https://dblp.org/pid/44/3105.xml"
+DBLP_URL = "https://dblp.org/pid/44/3105.json"
 
 request = urllib.request.Request(
-    URL,
-    headers={"User-Agent": "Academic-GitHub-Pages/1.0"}
+    DBLP_URL,
+    headers={
+        "User-Agent": "Mozilla/5.0 (compatible; AcademicWebsite/1.0)",
+        "Accept": "application/json"
+    }
 )
 
 with urllib.request.urlopen(request, timeout=60) as response:
-    root = ET.fromstring(response.read())
+    raw = response.read()
+    content_type = response.headers.get("Content-Type", "")
 
-def get(node, tag):
-    el = node.find(tag)
-    return "".join(el.itertext()).strip() if el is not None else ""
+print("Content-Type:", content_type)
+print("Response preview:", raw[:200])
+
+try:
+    data = json.loads(raw)
+except json.JSONDecodeError as exc:
+    raise RuntimeError(
+        "DBLP did not return valid JSON. "
+        f"Response starts with: {raw[:200]!r}"
+    ) from exc
 
 records = []
 
-for entry in root.findall("r"):
-    item = next(iter(entry), None)
-    if item is None:
-        continue
+def as_text(value):
+    if value is None:
+        return ""
+    if isinstance(value, dict):
+        return str(value.get("text", ""))
+    return str(value)
 
-    authors = [
-        "".join(a.itertext()).strip()
-        for a in item.findall("author")
-    ]
+for entry in data.get("result", {}).get("hits", {}).get("hit", []):
+    info = entry.get("info", {})
 
-    if not authors:
-        authors = [
-            "".join(a.itertext()).strip()
-            for a in item.findall("editor")
-        ]
+    authors_data = info.get("authors", {}).get("author", [])
+    if isinstance(authors_data, dict):
+        authors_data = [authors_data]
+
+    authors = [as_text(a) for a in authors_data]
 
     records.append({
-        "year": get(item, "year"),
-        "title": get(item, "title"),
+        "year": as_text(info.get("year")),
+        "title": as_text(info.get("title")),
         "authors": authors,
-        "venue": get(item, "journal") or get(item, "booktitle"),
-        "volume": get(item, "volume"),
-        "number": get(item, "number"),
-        "pages": get(item, "pages"),
-        "url": get(item, "ee") or get(item, "url")
+        "venue": as_text(info.get("venue")),
+        "volume": as_text(info.get("volume")),
+        "number": as_text(info.get("number")),
+        "pages": as_text(info.get("pages")),
+        "url": as_text(info.get("ee")) or as_text(info.get("url"))
     })
 
 records.sort(
@@ -52,9 +62,15 @@ records.sort(
     reverse=True
 )
 
+if not records:
+    raise RuntimeError(
+        "No publications found. "
+        "The DBLP JSON structure may differ from the expected format."
+    )
+
 Path("publications.json").write_text(
     json.dumps(records, ensure_ascii=False, indent=2),
     encoding="utf-8"
 )
 
-print(f"Downloaded {len(records)} publications")
+print(f"Successfully downloaded {len(records)} publications.")
