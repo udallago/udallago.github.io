@@ -44,7 +44,9 @@ title: Publications
         title: get("title"),
         authors: Array.from(
           item.querySelectorAll("author")
-        ).map(a => a.textContent.trim()),
+        ).map(a =>
+          a.textContent.trim().replace(/\s+\d{4}$/, "")
+        ),
         venue: get("journal") || get("booktitle"),
         volume: get("volume"),
         number: get("number"),
@@ -76,17 +78,18 @@ title: Publications
 
       const li = document.createElement("li");
 
+      // Autori senza suffissi numerici DBLP
       const authors = document.createElement("span");
       authors.textContent = p.authors.join(", ") + ". ";
       li.appendChild(authors);
 
+      // Titolo cliccabile
       const title = document.createElement("a");
       title.textContent = p.title;
       title.href = p.url || "https://dblp.org/pid/44/3105.html";
       li.appendChild(title);
 
-      // Nome della conferenza o del journal
-      // con lo stesso tag usato in community.md
+      // Conferenza o journal in grassetto
       if (p.venue) {
         li.appendChild(document.createTextNode(". "));
 
@@ -95,7 +98,7 @@ title: Publications
         li.appendChild(venue);
       }
 
-      // Altri dettagli bibliografici
+      // Dettagli bibliografici
       const details = [
         p.volume,
         p.number ? "(" + p.number + ")" : "",
